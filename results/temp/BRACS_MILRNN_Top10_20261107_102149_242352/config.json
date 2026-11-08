@@ -1,0 +1,23 @@
+{
+  "model": "MILRNN_Top10_DINO",
+  "dataset": "BRACS",
+  "feature_dim": 384,
+  "class_num": 4,
+  "hidden_dim": 128,
+  "normal_label": 0,
+  "top_k": 10,
+  "selection_score": "1 - P(class 0)",
+  "selection_order": "descending; stable ties",
+  "scorer": "Linear(384,4)",
+  "scorer_training": "CE on instance with highest predicted non-normal score",
+  "rnn_training": "bag CE; frozen scorer",
+  "optimizer": "Adam",
+  "learning_rate": 0.0003,
+  "max_epochs_per_stage": 100,
+  "patience": 10,
+  "early_stopping_logic": "reset to 10, then decrement every epoch",
+  "consecutive_non_improvements_to_stop": 9,
+  "training_seed": null,
+  "data_path": "/data/database/BRACS/pkl_data/old/train",
+  "adaptation": "BRACS four-class DINO adaptation"
+}

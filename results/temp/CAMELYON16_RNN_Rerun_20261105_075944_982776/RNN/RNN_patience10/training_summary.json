@@ -1,0 +1,5 @@
+{
+  "model": "RNN",
+  "best_epoch": 2,
+  "best_validation_ce": 0.6355018491546313
+}

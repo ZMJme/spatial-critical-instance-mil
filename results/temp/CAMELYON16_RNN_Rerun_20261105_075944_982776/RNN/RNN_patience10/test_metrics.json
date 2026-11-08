@@ -1,0 +1,23 @@
+{
+  "model": "CAMELYON16_RNN_Rerun_patience10",
+  "run_id": "CAMELYON16_RNN_Rerun_20261105_075944_982776",
+  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/temp/CAMELYON16_RNN_Rerun_20261105_075944_982776/RNN/RNN_patience10/model.pth",
+  "test_data_path": "/data/database/CAMELYON16/pkl_data/testing/20xbags",
+  "n": 129,
+  "average": "binary",
+  "positive_label": 1,
+  "precision": 0.3181818181818182,
+  "accuracy": 0.5038759689922481,
+  "recall": 0.2916666666666667,
+  "f1": 0.30434782608695654,
+  "confusion_matrix_labels_0_1": [
+    [
+      51,
+      30
+    ],
+    [
+      34,
+      14
+    ]
+  ]
+}

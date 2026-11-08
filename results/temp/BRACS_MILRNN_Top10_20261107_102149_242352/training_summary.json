@@ -1,0 +1,15 @@
+{
+  "model": "BRACS_MILRNN_Top10_DINO",
+  "scorer": {
+    "stage": "scorer",
+    "best_epoch": 29,
+    "best_validation_ce": 0.5225336949154734,
+    "checkpoint": "/data/code/WSI/WSI_pretrain/model/MIL/temp/BRACS_MILRNN_Top10_20261107_102149_242352/scorer_best.pth"
+  },
+  "rnn": {
+    "stage": "rnn",
+    "best_epoch": 5,
+    "best_validation_ce": 0.5644839454325893,
+    "checkpoint": "/data/code/WSI/WSI_pretrain/model/MIL/temp/BRACS_MILRNN_Top10_20261107_102149_242352/rnn_best.pth"
+  }
+}

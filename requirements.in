@@ -1,0 +1,21 @@
+# Dependency names inferred from source imports; NOT a historical environment lock.
+# Install PyTorch/torchvision and PyG builds suitable for your CUDA version.
+torch
+torchvision
+torch-geometric
+timm
+nystrom-attention
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+seaborn
+Pillow
+opencv-python
+networkx
+lxml
+openslide-python
+tqdm
+jupyterlab
+einops

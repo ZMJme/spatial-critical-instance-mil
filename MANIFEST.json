@@ -1,0 +1,982 @@
+[
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\retrain_baselines_patience10_on_BRACS.py",
+    "destination": "WSI_pretrain/retrain_baselines_patience10_on_BRACS.py",
+    "sha256": "6524fb188f9efc223f989090a345a4f31f1b54d464e8d7aaa859baea7e5a55a1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\retrain_baselines_patience10_on_CAMELYON16.py",
+    "destination": "WSI_pretrain/retrain_baselines_patience10_on_CAMELYON16.py",
+    "sha256": "b50e2a9d1b0936dda0aa7c86b908b9f57b2ef32580d50ac50a2d2d7ae65fc554"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\MIL_compare.ipynb",
+    "destination": "WSI_pretrain/MIL_compare.ipynb",
+    "sha256": "b758e2002d82ab81435103e8db3056813eafb886c4a467c9cd120d6da3776477"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\ablation.ipynb",
+    "destination": "WSI_pretrain/ablation.ipynb",
+    "sha256": "fc1d125c1681ac3bea0e839a98d2ae77c62680fb2f3d362c66c6d644df6b0018"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\MIL.ipynb",
+    "destination": "WSI_pretrain/MIL.ipynb",
+    "sha256": "bc5a7d6f4c7036b96a78ebf5675eb0f35a7b28141c60942d40bc652d5778c04c"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\DASMIL.ipynb",
+    "destination": "WSI_pretrain/DASMIL.ipynb",
+    "sha256": "5f3ddc997067410a387b1407bf39ad463e2e526d70c73dcedbfc2a2127e9aca5"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\data.ipynb",
+    "destination": "WSI_pretrain/data.ipynb",
+    "sha256": "b4fe50a727d787f596013174749028fd8ca7988044f4c566a74a733eb7adb1fd"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\dino_train.ipynb",
+    "destination": "WSI_pretrain/dino_train.ipynb",
+    "sha256": "af35bddab28204958811e67633619b2bb2ee9f5650b8b584626d587e49bf3aa1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\dino_visualization.ipynb",
+    "destination": "WSI_pretrain/dino_visualization.ipynb",
+    "sha256": "a3e5de5571a03903bc690129cc7c0c49ca9e6b2fbb70d547b5019b00715a00fc"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\data.py",
+    "destination": "WSI_pretrain/wsi/data.py",
+    "sha256": "f4d879b1e07fdef9c48f94767f34a479fc7fe72ae8935f6cdc2ed6016844b214"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\loss.py",
+    "destination": "WSI_pretrain/wsi/loss.py",
+    "sha256": "2c89398f99829dfead673e8596e2d1e07a69c6ad7b051a8945101a50a40abd52"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\train.py",
+    "destination": "WSI_pretrain/wsi/train.py",
+    "sha256": "2ea2bac09fa9203d5063df69386f972e870e7c3aa854cf63cc6095134d0b5029"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\utils.py",
+    "destination": "WSI_pretrain/wsi/utils.py",
+    "sha256": "1b71c484326210554e6b15ca5df6693f94770a9136648d1d8fd0e95bdcad6cf6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\wsi.py",
+    "destination": "WSI_pretrain/wsi/wsi.py",
+    "sha256": "856d133ae939c218c0028e79af4152c73ddfe1c7310272eaf1e2d3bbd0b7808f"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\__init__.py",
+    "destination": "WSI_pretrain/wsi/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\.ipynb_checkpoints\\train-checkpoint.py",
+    "destination": "WSI_pretrain/wsi/.ipynb_checkpoints/train-checkpoint.py",
+    "sha256": "291ddc238e6f2083f5d9cfb856b360c694191b1a84cd37677eee4ca026c69b45"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\.ipynb_checkpoints\\utils-checkpoint.py",
+    "destination": "WSI_pretrain/wsi/.ipynb_checkpoints/utils-checkpoint.py",
+    "sha256": "ed2452f09f3644d78439a466ee538629aee70e5cb267d389a2372dd3d0e434fb"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\nets\\blocks.py",
+    "destination": "WSI_pretrain/wsi/nets/blocks.py",
+    "sha256": "084f77a3f8f31c92c85b7180135ac602a4ea5a70271646bd25d63ceaa16d6aaa"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\nets\\dasmil.py",
+    "destination": "WSI_pretrain/wsi/nets/dasmil.py",
+    "sha256": "1373278007daa0fadfafa61a21cc1ef46f68c88cfd40e66341b2b130f4e1d6bf"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\nets\\dino.py",
+    "destination": "WSI_pretrain/wsi/nets/dino.py",
+    "sha256": "2b411f4c129f42eb6f8e2479e326d6fedeb07cc8610a75269113b9881643db71"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\nets\\vision_transformer.py",
+    "destination": "WSI_pretrain/wsi/nets/vision_transformer.py",
+    "sha256": "959cdb634893492588b07f688a3d397463e3783f57ce1753db350aaa7c73fdc3"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\nets\\__init__.py",
+    "destination": "WSI_pretrain/wsi/nets/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\wsi\\nets\\.ipynb_checkpoints\\dasmil-checkpoint.py",
+    "destination": "WSI_pretrain/wsi/nets/.ipynb_checkpoints/dasmil-checkpoint.py",
+    "sha256": "1373278007daa0fadfafa61a21cc1ef46f68c88cfd40e66341b2b130f4e1d6bf"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A1_SelfLoop_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/config.json",
+    "sha256": "db724bc9ca69d62e5822031f1e1ef1cf47387ca60b5ef0628817e553e724a690"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A1_SelfLoop_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A1_SelfLoop_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/test_metrics.json",
+    "sha256": "e2498f1fd1d259946850fae69dff77d433cc850f886c02590ffa6f6ba6a6b14a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A1_SelfLoop_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/test_predictions.json",
+    "sha256": "a9f97848c3251fbe21169ef6e3e69d02c2af05739864364528d69ada279a6fd6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A1_SelfLoop_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/training_summary.json",
+    "sha256": "e2b5ada52649944d468b14bf4b1428350ec000456f69d57187db9ab6df49f67b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A2_GAT_DSMIL_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A2_GAT_DSMIL_Joint_patience10/config.json",
+    "sha256": "e7965e33a980655802b1e4609bca1400fecf85afdf9fda486bd9c1b03d2cc9af"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A2_GAT_DSMIL_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A2_GAT_DSMIL_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A2_GAT_DSMIL_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A2_GAT_DSMIL_Joint_patience10/test_metrics.json",
+    "sha256": "9a7125825ea25c7785704bf4b134d1b85dfb9af49e67421d662048f13dba6c38"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A2_GAT_DSMIL_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A2_GAT_DSMIL_Joint_patience10/test_predictions.json",
+    "sha256": "12256f8f5804bb3a5ef60d5ecbe55b2ecfce6feb46c0a144e27c9b93cb5b2f47"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A2_GAT_DSMIL_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A2_GAT_DSMIL_Joint_patience10/training_summary.json",
+    "sha256": "7f26061ef2deac879ab86892763d45dced7dcd267930adb7311a74a889da8014"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A3_GAT_NoSelect_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A3_GAT_NoSelect_Joint_patience10/config.json",
+    "sha256": "b732b120130c932147a18ebcd90c96a5958ed37a0281ab52c199ebd65c195556"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A3_GAT_NoSelect_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A3_GAT_NoSelect_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A3_GAT_NoSelect_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A3_GAT_NoSelect_Joint_patience10/test_metrics.json",
+    "sha256": "4a0c6639684b6a132a00933b3e516d5670fc2c5babf092c50cda8651ac63ba9d"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A3_GAT_NoSelect_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A3_GAT_NoSelect_Joint_patience10/test_predictions.json",
+    "sha256": "b0e615127568a8545e22bceb649b050213db7f28efba91d9d6113782fd8d2705"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A3_GAT_NoSelect_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/A3_GAT_NoSelect_Joint_patience10/training_summary.json",
+    "sha256": "137e823bf02771565b1a6e96874cacfb00c31925668d6f384b41e285039ac29f"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B1_GAT2_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B1_GAT2_Joint_patience10/config.json",
+    "sha256": "e096480f7e4aa40825ecc8b525aa5b6792265f042604aa24cd156ff76e87b489"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B1_GAT2_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B1_GAT2_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B1_GAT2_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B1_GAT2_Joint_patience10/test_metrics.json",
+    "sha256": "959e9ef41f79ec4ad1a4bb4fe62b6e1ff58d8cbcf89fab04187ed09dba9c43b2"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B1_GAT2_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B1_GAT2_Joint_patience10/test_predictions.json",
+    "sha256": "3739a36db635406d462bd84d897d556a331c769dcad4d9e623e2ac24b085898a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B1_GAT2_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B1_GAT2_Joint_patience10/training_summary.json",
+    "sha256": "3421c2cdb5bf8aecda36b158d157a1f99d793593dd336e2cfcd84e86d440e6cd"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B2_GAT3_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B2_GAT3_Joint_patience10/config.json",
+    "sha256": "c9c6cb42ab99e10f742ba717ab372060ca16a9c1a3a06bb75cad9699889a4e3a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B2_GAT3_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B2_GAT3_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B2_GAT3_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B2_GAT3_Joint_patience10/test_metrics.json",
+    "sha256": "448af964531cb3266c7b7f56dd22a50c5f7279a1f28cf666f69c4baa59c72296"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B2_GAT3_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B2_GAT3_Joint_patience10/test_predictions.json",
+    "sha256": "30ca842888a8f0bb4f40818ef3479a147a1010021c8f0df89c09bb82ce41ac93"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B2_GAT3_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B2_GAT3_Joint_patience10/training_summary.json",
+    "sha256": "90b5359100a3f92ec22496c11f67a5cf9be9429572bde167e29439c6dfa960f2"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B3_GCN1_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B3_GCN1_Joint_patience10/config.json",
+    "sha256": "617d87739b69f2d30aaf24b2db773b4de9a4b44da489b18cc0c0f9c1f6d1a263"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B3_GCN1_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B3_GCN1_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B3_GCN1_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B3_GCN1_Joint_patience10/test_metrics.json",
+    "sha256": "4f7670b3a8ab5779d56f1134ac308f9721e58a530f1696eb6fde6bf96e9303b1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B3_GCN1_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B3_GCN1_Joint_patience10/test_predictions.json",
+    "sha256": "188f3c9312a630dae14ebd8d1f1aa70419fb82dd4775222f31f021d8bfd09a75"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B3_GCN1_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B3_GCN1_Joint_patience10/training_summary.json",
+    "sha256": "4fdab406f958773e0e2773285fdcdbcf4ead17aff0e7305e99c813d2fae4728a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B4_GCN2_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B4_GCN2_Joint_patience10/config.json",
+    "sha256": "a0bf3e4d9c0c53aa666ac062f1c8bba9fe7952f14daae97c75f60ca92011ca4d"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B4_GCN2_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B4_GCN2_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B4_GCN2_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B4_GCN2_Joint_patience10/test_metrics.json",
+    "sha256": "8fa2c2635a28912d06e4b6f929d2377998fee90de41979cba43fffb22c4f88f5"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B4_GCN2_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B4_GCN2_Joint_patience10/test_predictions.json",
+    "sha256": "20a7b13ca7278b8498752c194290b385cb0a8dbbd1a0d82830d522c55fa9a02b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B4_GCN2_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B4_GCN2_Joint_patience10/training_summary.json",
+    "sha256": "7e6cda2f848833e6ba9a06bb09913282654d6dc51e70df98afe69d2054eb31fa"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B5_GCN3_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B5_GCN3_Joint_patience10/config.json",
+    "sha256": "6e5ecde4e95769a3665b1fb8291fabde412a93c911581a127bddb3d47a4ecc93"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B5_GCN3_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B5_GCN3_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B5_GCN3_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B5_GCN3_Joint_patience10/test_metrics.json",
+    "sha256": "b73af0fd2346685706ebabd41b13ea0fc19afb2787e27548b7e053b0f2fcdf61"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B5_GCN3_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B5_GCN3_Joint_patience10/test_predictions.json",
+    "sha256": "f8fbadb86c069c70af15fb85b8be481498f21ce05cb5b34d3caa20aaafd529bd"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B5_GCN3_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/B5_GCN3_Joint_patience10/training_summary.json",
+    "sha256": "f91c15784521912ae9f6fd64a8915cdce5cf8d5d0b7acbce21cde371fef98712"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C1_Level2_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C1_Level2_Joint_patience10/config.json",
+    "sha256": "59a1c32fdee2ffa8567c1aa39b7f60eb6e2b65ab6f79fd8569ad546ca83cb994"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C1_Level2_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C1_Level2_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "6938121c094a624c6a47505f3ee2f7a330c44534fd6d3ea10866f2931ce82065"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C1_Level2_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C1_Level2_Joint_patience10/test_metrics.json",
+    "sha256": "8fe0962c0a9cafe81e296ce8f6071cb041a0ecf52abac30e5e022627527c76ba"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C1_Level2_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C1_Level2_Joint_patience10/test_predictions.json",
+    "sha256": "2f26d847dae9f1b1ec51098438d9d0d39ae4d4489248f47a3b5974dd1b76559b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C1_Level2_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C1_Level2_Joint_patience10/training_summary.json",
+    "sha256": "7d05825efb1b835192bca04f859f65a36d7e2b18d19594ce73530610d3bfe9b7"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C2_Level3_Joint_patience10\\config.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C2_Level3_Joint_patience10/config.json",
+    "sha256": "f14cb52740907fd440725ee9004b64649410e3bd146c936d0be6eaab080bf79b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C2_Level3_Joint_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C2_Level3_Joint_patience10/split_on_CAMELYON16.json",
+    "sha256": "79c7a05f69a8feaac9f365917d17ef0ec009b35c8d5520af8f4cb88be3d6db3b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C2_Level3_Joint_patience10\\test_metrics.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C2_Level3_Joint_patience10/test_metrics.json",
+    "sha256": "982f04584fbac5d85ae28d8c62e2360f86ca8d782aae2a2af8bd7045147989ba"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C2_Level3_Joint_patience10\\test_predictions.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C2_Level3_Joint_patience10/test_predictions.json",
+    "sha256": "c7911ec6022aaaad8378c5f898c132ee6ac9be4715b5cdaf05fd0879b1db86c0"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C2_Level3_Joint_patience10\\training_summary.json",
+    "destination": "results/Ablation_NEW/CAMELYON16/C2_Level3_Joint_patience10/training_summary.json",
+    "sha256": "812485cc71aed58aafd57f770c8249c18f1976fda40a8acb27cccf7a5bc392b1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\ABMIL\\ABMIL_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/ABMIL/ABMIL_patience10_NEWResult/config.json",
+    "sha256": "e9882b6084495a36ffe0dc7dd8631fc8c5d59aa2b56b64b3838b747379d199d6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\ABMIL\\ABMIL_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/ABMIL/ABMIL_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\ABMIL\\ABMIL_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/ABMIL/ABMIL_patience10_NEWResult/test_metrics.json",
+    "sha256": "bbd49cf168779e7f31da173c99dea081d57cda0ecb7ea7229f4e3d5e0228eb13"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\ABMIL\\ABMIL_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/ABMIL/ABMIL_patience10_NEWResult/test_predictions.json",
+    "sha256": "6f2d4e6e6ba990b558816fc32fe7dfab23cf8763d6b085ec69bc1b7c4f1c2ae6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\ABMIL\\ABMIL_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/ABMIL/ABMIL_patience10_NEWResult/training_summary.json",
+    "sha256": "f008a1b3beaa112a7d4b9044cefb36556737fd2acc4d01fc2c3094671e44405f"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/CLAM_SB/CLAM_SB_patience10_NEWResult/config.json",
+    "sha256": "513ec14a1fb3eab39239d4f5ef929c974a24a5d6d6aeb461e2629725fc6b1819"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/CLAM_SB/CLAM_SB_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/CLAM_SB/CLAM_SB_patience10_NEWResult/test_metrics.json",
+    "sha256": "c6d940ba0b615a0afb50553ac52b18d9e809a0ba29e06255ba1e7e8ecd56e01f"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/CLAM_SB/CLAM_SB_patience10_NEWResult/test_predictions.json",
+    "sha256": "2699edc601d2eb662ea83d2525d2fac54e2297bc420c92a0e0f35a86b94e2ffc"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/CLAM_SB/CLAM_SB_patience10_NEWResult/training_summary.json",
+    "sha256": "ded1805b48b004599524fb15766e53642ff4fedc865e025d6e0fe86fbeb8c53f"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\DSMIL\\DSMIL_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/DSMIL/DSMIL_patience10_NEWResult/config.json",
+    "sha256": "e46b60269665294be43c5514e68f5cf81706eaccdbb75378c3d5678e4ab76056"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\DSMIL\\DSMIL_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/DSMIL/DSMIL_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\DSMIL\\DSMIL_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/DSMIL/DSMIL_patience10_NEWResult/test_metrics.json",
+    "sha256": "5ea4e6cb8df812490067d8293557ea8ee7b500cae4bfe48d47a1e63dec04746c"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\DSMIL\\DSMIL_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/DSMIL/DSMIL_patience10_NEWResult/test_predictions.json",
+    "sha256": "c9fdd75f24c97a8d8ed49828ced772987bc701275003dcf131b2819667faa24d"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\DSMIL\\DSMIL_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/DSMIL/DSMIL_patience10_NEWResult/training_summary.json",
+    "sha256": "a2cb75a04ead1cdaae73d409f6b3b673fa7326689ee93d550b9f418716b0c306"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\GTP\\GTP_NEWResult\\GTP_patience10\\config.json",
+    "destination": "results/compare/BRACS/GTP/GTP_NEWResult/GTP_patience10/config.json",
+    "sha256": "c60bf075f7b5b50277f43b69466345d116984f1c5266dfea5b61d5f0309e5f11"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\GTP\\GTP_NEWResult\\GTP_patience10\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/GTP/GTP_NEWResult/GTP_patience10/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\GTP\\GTP_NEWResult\\GTP_patience10\\test_metrics.json",
+    "destination": "results/compare/BRACS/GTP/GTP_NEWResult/GTP_patience10/test_metrics.json",
+    "sha256": "8b03aadb1f752c20d4ad6895e500e5203e669d33a149f34e0f101d204955121e"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\GTP\\GTP_NEWResult\\GTP_patience10\\test_predictions.json",
+    "destination": "results/compare/BRACS/GTP/GTP_NEWResult/GTP_patience10/test_predictions.json",
+    "sha256": "36d8ff2947a5f4b67552c6199fb5aada87e2a61af272975aa2ed13b12fba59bd"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\GTP\\GTP_NEWResult\\GTP_patience10\\training_summary.json",
+    "destination": "results/compare/BRACS/GTP/GTP_NEWResult/GTP_patience10/training_summary.json",
+    "sha256": "24260345e3c46e6116b4e26d7b3d12e0747f3fd5558dc04348020e989f29df3c"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MaxPool\\MaxPool_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/MaxPool/MaxPool_patience10_NEWResult/config.json",
+    "sha256": "61ddf818b581d6e924cb75ba2658cbf89926335f9e9be203d0873b1cbb08fc02"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MaxPool\\MaxPool_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/MaxPool/MaxPool_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MaxPool\\MaxPool_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/MaxPool/MaxPool_patience10_NEWResult/test_metrics.json",
+    "sha256": "b738f9c816f70f26cd87bcdd391924dcac07ce081ba615b659b81f05aac8425b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MaxPool\\MaxPool_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/MaxPool/MaxPool_patience10_NEWResult/test_predictions.json",
+    "sha256": "a40779c27a1409acdbe8c650b4d2885e9d4cd355570a9d3af879fddce1591cfd"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MaxPool\\MaxPool_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/MaxPool/MaxPool_patience10_NEWResult/training_summary.json",
+    "sha256": "2713674c6d624249cbd81d83c00cf5d80342221e27a107f71312b8c889f41d46"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MeanPool\\MeanPool_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/MeanPool/MeanPool_patience10_NEWResult/config.json",
+    "sha256": "cc102964917c7b4b746f04826ce63754b405da6a51df717c029b02fcc7ecc1f6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MeanPool\\MeanPool_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/MeanPool/MeanPool_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MeanPool\\MeanPool_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/MeanPool/MeanPool_patience10_NEWResult/test_metrics.json",
+    "sha256": "f8ee79c0480280b3088bfa7add9815905bc366d33691e8df8cff5ec900ab8d27"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MeanPool\\MeanPool_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/MeanPool/MeanPool_patience10_NEWResult/test_predictions.json",
+    "sha256": "7d5a70e4aeaf18fc639d1156c1a9fc7b47096d815d5d9d95dc08f34b78b27e38"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MeanPool\\MeanPool_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/MeanPool/MeanPool_patience10_NEWResult/training_summary.json",
+    "sha256": "c3039a9a6dfb09e5abb64b4c10f12bce92f1f5cabb2ed80ec4473bd1e957a8f1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MILRNN_Top10\\config.json",
+    "destination": "results/compare/BRACS/MILRNN_Top10/config.json",
+    "sha256": "b5efdc9a780a7889bf56e2bc7219a42d5ff38333a09cdad5adcd3b844dabdd26"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MILRNN_Top10\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/MILRNN_Top10/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MILRNN_Top10\\test_metrics.json",
+    "destination": "results/compare/BRACS/MILRNN_Top10/test_metrics.json",
+    "sha256": "e9a1d4031fa10437a3ec401b510f1006ff034d9ed73b5e486e5dd1ba79f158f4"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MILRNN_Top10\\test_predictions.json",
+    "destination": "results/compare/BRACS/MILRNN_Top10/test_predictions.json",
+    "sha256": "4387abb9f5486d7f9f47d9847fd1af362e7ba42881c5f0b531d07756ddc1d920"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MILRNN_Top10\\training_summary.json",
+    "destination": "results/compare/BRACS/MILRNN_Top10/training_summary.json",
+    "sha256": "1fcbbc624b7d2d0c3ffe95de09442e49e8fd1d252933779fc80b547e544e4b03"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\Ours\\Ours_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/Ours/Ours_patience10_NEWResult/config.json",
+    "sha256": "5e588f26c83158e752c0a6b2d3ffedb7dcc068104252488f8ad9dc2f4756e2f1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\Ours\\Ours_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/Ours/Ours_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\Ours\\Ours_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/Ours/Ours_patience10_NEWResult/test_metrics.json",
+    "sha256": "462cffa3c1c325081a1c8425f5196377a1145186f1aeffe7a26b12cd07f518c0"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\Ours\\Ours_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/Ours/Ours_patience10_NEWResult/test_predictions.json",
+    "sha256": "b9d210b3008f5a1a4ba4f8303e6d99d91a9e89cbb1f552370f5829879b72c60a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\Ours\\Ours_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/Ours/Ours_patience10_NEWResult/training_summary.json",
+    "sha256": "c09514ef7dcad89c5d6956fe0e914e3c4dc6779b4ac225f012d25379db0f7a5a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\SlideGraph\\SlideGraph_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/SlideGraph/SlideGraph_patience10_NEWResult/config.json",
+    "sha256": "4f96b9f92928954bdc100140d6a73aaf97a6be1fcbe0ddc292d8049a42fc887a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\SlideGraph\\SlideGraph_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/SlideGraph/SlideGraph_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\SlideGraph\\SlideGraph_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/SlideGraph/SlideGraph_patience10_NEWResult/test_metrics.json",
+    "sha256": "62bca9ca6064bb440eab7567bebce7738aad3faa7ce1029ebbcaa3dace8891bb"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\SlideGraph\\SlideGraph_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/SlideGraph/SlideGraph_patience10_NEWResult/test_predictions.json",
+    "sha256": "7d5a70e4aeaf18fc639d1156c1a9fc7b47096d815d5d9d95dc08f34b78b27e38"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\SlideGraph\\SlideGraph_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/SlideGraph/SlideGraph_patience10_NEWResult/training_summary.json",
+    "sha256": "1d29a1ef06037a8b19c1e42a9b534bb240101e5ce14902b4bb594dd63f881b95"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\TransMIL\\TransMIL_patience10_NEWResult\\config.json",
+    "destination": "results/compare/BRACS/TransMIL/TransMIL_patience10_NEWResult/config.json",
+    "sha256": "f2f33025cc1fd8f7f1d9b39b8ca847a6c088b49fba977c919f8aa10741424fea"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\TransMIL\\TransMIL_patience10_NEWResult\\split_on_BRACS.json",
+    "destination": "results/compare/BRACS/TransMIL/TransMIL_patience10_NEWResult/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\TransMIL\\TransMIL_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/BRACS/TransMIL/TransMIL_patience10_NEWResult/test_metrics.json",
+    "sha256": "727be9975b54a67a97060a575381bf9bf67ca26dbe8f9c5c438f6c4406fb1b32"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\TransMIL\\TransMIL_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/BRACS/TransMIL/TransMIL_patience10_NEWResult/test_predictions.json",
+    "sha256": "5fac9cc9fb17c47c3f52ded8003b24288874228b4f2d2eeae1fef642e87dfae5"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\TransMIL\\TransMIL_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/BRACS/TransMIL/TransMIL_patience10_NEWResult/training_summary.json",
+    "sha256": "a33a1a8040d49c20715e9125e39a512d23f4f265bc230dae4c5ef9ddbec7776b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\ABMIL\\ABMIL_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/ABMIL/ABMIL_patience10_NEWResult/config.json",
+    "sha256": "939ad3c014e4375bb93240d7e363b914fec89d7b73a02762454133273057da86"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\ABMIL\\ABMIL_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/ABMIL/ABMIL_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\ABMIL\\ABMIL_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/ABMIL/ABMIL_patience10_NEWResult/test_metrics.json",
+    "sha256": "e02cefd1933dc0123ba377a8156d327ef6333db8e086e3ada7fa00d85774ce2e"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\ABMIL\\ABMIL_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/ABMIL/ABMIL_patience10_NEWResult/test_predictions.json",
+    "sha256": "525b4b933550570b4ce1dda4d260fa3e6aebde7a755972f96ae49bb33cd7ef19"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\ABMIL\\ABMIL_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/ABMIL/ABMIL_patience10_NEWResult/training_summary.json",
+    "sha256": "5086e571ca285f4ea47d2abcfd449e4f583268a325307fe254be168ba7d3f715"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/CLAM_SB/CLAM_SB_patience10_NEWResult/config.json",
+    "sha256": "e307917dde6005ea0582db62cad12d6267a1226cd102a438e5d6561c1182d62b"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/CLAM_SB/CLAM_SB_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/CLAM_SB/CLAM_SB_patience10_NEWResult/test_metrics.json",
+    "sha256": "0d751e04bc020797be72f45caa5731e07c74a719d31bc47012f826b4e07eaeac"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/CLAM_SB/CLAM_SB_patience10_NEWResult/test_predictions.json",
+    "sha256": "8ccfd554717aa1cb612a8c112d23d83dc8e772c4fbe5afbcb8c9a980fbe705aa"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\CLAM_SB\\CLAM_SB_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/CLAM_SB/CLAM_SB_patience10_NEWResult/training_summary.json",
+    "sha256": "a25a26744587d0e8d05ab3567155660ef95dd2f24709265c6f3c6dc678b85898"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\DSMIL\\DSMIL_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/DSMIL/DSMIL_patience10_NEWResult/config.json",
+    "sha256": "545db142b815c229ef16d890055d0cc48ba8b80c0646dad2a3c4098d78b8f860"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\DSMIL\\DSMIL_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/DSMIL/DSMIL_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\DSMIL\\DSMIL_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/DSMIL/DSMIL_patience10_NEWResult/test_metrics.json",
+    "sha256": "600b76bf1060b2885b88b983a91a5c8ee7f544bcd2d10302297825930cdf9e71"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\DSMIL\\DSMIL_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/DSMIL/DSMIL_patience10_NEWResult/test_predictions.json",
+    "sha256": "52fa8aa6dde0b7af1f2a46ff984dffdcb65187c1b3e3822d544b9eb36f2ceff6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\DSMIL\\DSMIL_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/DSMIL/DSMIL_patience10_NEWResult/training_summary.json",
+    "sha256": "9bbe10c0b316f950478cb951b3fb63e639dfb88c4d1334ddcd2a85bc0c4eed0e"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\GTP\\GTP_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/GTP/GTP_patience10_NEWResult/config.json",
+    "sha256": "9f1f7dc52874a6b4a5564a0cd5a638aae04df30a127874d9dca144e3aa2fbdd3"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\GTP\\GTP_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/GTP/GTP_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\GTP\\GTP_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/GTP/GTP_patience10_NEWResult/test_metrics.json",
+    "sha256": "e1c8f59d509bbd8a26ff9edb368b61ec3f6a228b3e6e605d6be03651652fa23a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\GTP\\GTP_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/GTP/GTP_patience10_NEWResult/test_predictions.json",
+    "sha256": "59b2ae2bdb5036a5320b42ace6c8c6a229011eaadaba826c40cedcbd5502d9f4"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\GTP\\GTP_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/GTP/GTP_patience10_NEWResult/training_summary.json",
+    "sha256": "564b1e22ac398bd9c1d090e3135d388e70c35035468979d0009c6bd09b969d31"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MaxPool\\MaxPool_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/MaxPool/MaxPool_patience10_NEWResult/config.json",
+    "sha256": "3c3a64aae6a58ac7dbdb3cce2fa835a70adca91f24919741b38c8fae823b76fe"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MaxPool\\MaxPool_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/MaxPool/MaxPool_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MaxPool\\MaxPool_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/MaxPool/MaxPool_patience10_NEWResult/test_metrics.json",
+    "sha256": "c497dea6261691099354aefa78bf85153d1de237362f925e62b56e9c3332fc76"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MaxPool\\MaxPool_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/MaxPool/MaxPool_patience10_NEWResult/test_predictions.json",
+    "sha256": "dac1ad81f73b3936d70f0eff2d2a16fbda4afffc65dfbb8f4d41e5541da5e515"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MaxPool\\MaxPool_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/MaxPool/MaxPool_patience10_NEWResult/training_summary.json",
+    "sha256": "6927bfec91841f6e22da99b59d289e6460b246c5a239d7b806cf6464ededeeee"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MeanPool\\MeanPool_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/MeanPool/MeanPool_patience10_NEWResult/config.json",
+    "sha256": "c3677f385519dd50c66ca9e0f33e3f02b7126d0062d9beb119b5e86988fae4b0"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MeanPool\\MeanPool_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/MeanPool/MeanPool_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MeanPool\\MeanPool_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/MeanPool/MeanPool_patience10_NEWResult/test_metrics.json",
+    "sha256": "ba15e52ee1fa89863742267119ea25e3f5c10b5a41e0c77169e00a3108410c29"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MeanPool\\MeanPool_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/MeanPool/MeanPool_patience10_NEWResult/test_predictions.json",
+    "sha256": "810bdfcafb67dfc2ecfa18e1c4c7577388094688a90085f7e154cae1167161fb"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MeanPool\\MeanPool_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/MeanPool/MeanPool_patience10_NEWResult/training_summary.json",
+    "sha256": "198e4ce2bc65a15c321cb7f1af291dc8bd9e1a88e13f4b70ecda6cc0965c415d"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MILRNN_Top10\\config.json",
+    "destination": "results/compare/Camelyon/MILRNN_Top10/config.json",
+    "sha256": "e17319aad350d4b23c6c9d7cb66dab10bc0472f633f35d01109167fb937b82cd"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MILRNN_Top10\\split_on_CAMELYON16.json",
+    "destination": "results/compare/Camelyon/MILRNN_Top10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MILRNN_Top10\\test_metrics.json",
+    "destination": "results/compare/Camelyon/MILRNN_Top10/test_metrics.json",
+    "sha256": "9f5b42190758655341fb77e3158f6bea1b76f01b86ee8855f7b7137db30433c2"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MILRNN_Top10\\test_predictions.json",
+    "destination": "results/compare/Camelyon/MILRNN_Top10/test_predictions.json",
+    "sha256": "5ae7727c747949217112e64643a59a3199f0625b534934bb2e89f3c69085b0f6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MILRNN_Top10\\training_summary.json",
+    "destination": "results/compare/Camelyon/MILRNN_Top10/training_summary.json",
+    "sha256": "335162b7b5d1fc957a9f9554a379bab87f5570cc23d8c802a5a0a65037c23fe9"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\Ours\\Ours_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/Ours/Ours_patience10_NEWResult/config.json",
+    "sha256": "e7cd4dfbdb86e989b164d596710ded2c4ae20c82805f62a498026ca668e83b68"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\Ours\\Ours_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/Ours/Ours_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\Ours\\Ours_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/Ours/Ours_patience10_NEWResult/test_metrics.json",
+    "sha256": "fc681ae46ce190ed09c859fc2812b0ab42341f8ba2ab81245d9dc6c05438a841"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\Ours\\Ours_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/Ours/Ours_patience10_NEWResult/test_predictions.json",
+    "sha256": "cec7b1cb86478ef93792fb9b03ff08aca98b5699ce8fcdd725c6ff43d9254e0c"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\Ours\\Ours_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/Ours/Ours_patience10_NEWResult/training_summary.json",
+    "sha256": "ec16c1b9235c9a9bb266c1e67f5e9a64df39b6fd9af9e3f1db27263321e1d3e7"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\SlideGraph\\SlideGraph_patience10\\config.json",
+    "destination": "results/compare/Camelyon/SlideGraph/SlideGraph_patience10/config.json",
+    "sha256": "851be30c1f718245a5507f465b55ec31b1abf3ee30f68bcc9f250b9c45271bc6"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\SlideGraph\\SlideGraph_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/compare/Camelyon/SlideGraph/SlideGraph_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\SlideGraph\\SlideGraph_patience10\\test_metrics.json",
+    "destination": "results/compare/Camelyon/SlideGraph/SlideGraph_patience10/test_metrics.json",
+    "sha256": "82c79fee1796a75ded7acb2d2e2ca89bba7f61b6658bca27df532bcfca48e16a"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\SlideGraph\\SlideGraph_patience10\\test_predictions.json",
+    "destination": "results/compare/Camelyon/SlideGraph/SlideGraph_patience10/test_predictions.json",
+    "sha256": "2963d8cb08619a7d3d7e8e8f44e00aa5d3557cf0c5388943775a601fa844ce09"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\SlideGraph\\SlideGraph_patience10\\training_summary.json",
+    "destination": "results/compare/Camelyon/SlideGraph/SlideGraph_patience10/training_summary.json",
+    "sha256": "9fd2fec430ace37a0dd0c1a122511451be1bbe0dd146f0986841fca1752b30d4"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\TransMIL\\TransMIL_patience10_NEWResult\\config.json",
+    "destination": "results/compare/Camelyon/TransMIL/TransMIL_patience10_NEWResult/config.json",
+    "sha256": "db89773aa4927c6ff2c9cea2bd4dd80b6e127c27ef3e2e3cb922667c3fe8cf5f"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\TransMIL\\TransMIL_patience10_NEWResult\\split.json",
+    "destination": "results/compare/Camelyon/TransMIL/TransMIL_patience10_NEWResult/split.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\TransMIL\\TransMIL_patience10_NEWResult\\test_metrics.json",
+    "destination": "results/compare/Camelyon/TransMIL/TransMIL_patience10_NEWResult/test_metrics.json",
+    "sha256": "3541f8999e3bc5aa5be9379b95b0d5b878c84061d9c3b661fb18f091a8354412"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\TransMIL\\TransMIL_patience10_NEWResult\\test_predictions.json",
+    "destination": "results/compare/Camelyon/TransMIL/TransMIL_patience10_NEWResult/test_predictions.json",
+    "sha256": "87a041ecd02c1c12da8062a6b63ab0e2ee9830ed77b002a28e0be9a707116677"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\TransMIL\\TransMIL_patience10_NEWResult\\training_summary.json",
+    "destination": "results/compare/Camelyon/TransMIL/TransMIL_patience10_NEWResult/training_summary.json",
+    "sha256": "a9167d05e24744aced8c1fd9e71146f650f47da4a870d3ad70197ccd45df9661"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_MILRNN_Top10_20261107_102149_242352\\config.json",
+    "destination": "results/temp/BRACS_MILRNN_Top10_20261107_102149_242352/config.json",
+    "sha256": "b5efdc9a780a7889bf56e2bc7219a42d5ff38333a09cdad5adcd3b844dabdd26"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_MILRNN_Top10_20261107_102149_242352\\split_on_BRACS.json",
+    "destination": "results/temp/BRACS_MILRNN_Top10_20261107_102149_242352/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_MILRNN_Top10_20261107_102149_242352\\test_metrics.json",
+    "destination": "results/temp/BRACS_MILRNN_Top10_20261107_102149_242352/test_metrics.json",
+    "sha256": "e9a1d4031fa10437a3ec401b510f1006ff034d9ed73b5e486e5dd1ba79f158f4"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_MILRNN_Top10_20261107_102149_242352\\test_predictions.json",
+    "destination": "results/temp/BRACS_MILRNN_Top10_20261107_102149_242352/test_predictions.json",
+    "sha256": "4387abb9f5486d7f9f47d9847fd1af362e7ba42881c5f0b531d07756ddc1d920"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_MILRNN_Top10_20261107_102149_242352\\training_summary.json",
+    "destination": "results/temp/BRACS_MILRNN_Top10_20261107_102149_242352/training_summary.json",
+    "sha256": "1fcbbc624b7d2d0c3ffe95de09442e49e8fd1d252933779fc80b547e544e4b03"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_RNN_Rerun_20261106_141558_947821\\RNN\\RNN_patience10\\config.json",
+    "destination": "results/temp/BRACS_RNN_Rerun_20261106_141558_947821/RNN/RNN_patience10/config.json",
+    "sha256": "2c158d1a619b607d0f7493e376cc60fdfa4d8c80a6375f2e8fa5110327aa9ff1"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_RNN_Rerun_20261106_141558_947821\\RNN\\RNN_patience10\\split_on_BRACS.json",
+    "destination": "results/temp/BRACS_RNN_Rerun_20261106_141558_947821/RNN/RNN_patience10/split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_RNN_Rerun_20261106_141558_947821\\RNN\\RNN_patience10\\test_metrics.json",
+    "destination": "results/temp/BRACS_RNN_Rerun_20261106_141558_947821/RNN/RNN_patience10/test_metrics.json",
+    "sha256": "49665bc79969edf05ac09cc126b4667b333de39260428f00c61a2b1d305ea9d8"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_RNN_Rerun_20261106_141558_947821\\RNN\\RNN_patience10\\test_predictions.json",
+    "destination": "results/temp/BRACS_RNN_Rerun_20261106_141558_947821/RNN/RNN_patience10/test_predictions.json",
+    "sha256": "201ad08b8817e627abf1e12de2e99b5d0a1738d179e7dcb93e042b5b7710cfad"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\BRACS_RNN_Rerun_20261106_141558_947821\\RNN\\RNN_patience10\\training_summary.json",
+    "destination": "results/temp/BRACS_RNN_Rerun_20261106_141558_947821/RNN/RNN_patience10/training_summary.json",
+    "sha256": "259456d7c5e75eaf0b0e910fb06881ed3cf560303ae90e98edced77c10b6ed06"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261105_075944_982776\\RNN\\RNN_patience10\\config.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261105_075944_982776/RNN/RNN_patience10/config.json",
+    "sha256": "8b745ea2ba0a568fbaf66feb724045cdf4e592933db6a20ed6c518ef914b8f55"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261105_075944_982776\\RNN\\RNN_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261105_075944_982776/RNN/RNN_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261105_075944_982776\\RNN\\RNN_patience10\\test_metrics.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261105_075944_982776/RNN/RNN_patience10/test_metrics.json",
+    "sha256": "a0dd47d8c9663b13b06dbe873334c3066de7835ed038e62e9654b7476b0afa86"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261105_075944_982776\\RNN\\RNN_patience10\\test_predictions.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261105_075944_982776/RNN/RNN_patience10/test_predictions.json",
+    "sha256": "6756cf29be027b569fb20811cb4e3e2b99e65f19f902fe7120a435e3cece1672"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261105_075944_982776\\RNN\\RNN_patience10\\training_summary.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261105_075944_982776/RNN/RNN_patience10/training_summary.json",
+    "sha256": "2cb67210ccdbbdc100bbea3b165ed81f9e70bbe6769795c21b0115ae0972faf4"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261106_144100_600964\\RNN\\RNN_patience10\\config.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261106_144100_600964/RNN/RNN_patience10/config.json",
+    "sha256": "8b745ea2ba0a568fbaf66feb724045cdf4e592933db6a20ed6c518ef914b8f55"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261106_144100_600964\\RNN\\RNN_patience10\\split_on_CAMELYON16.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261106_144100_600964/RNN/RNN_patience10/split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261106_144100_600964\\RNN\\RNN_patience10\\test_metrics.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261106_144100_600964/RNN/RNN_patience10/test_metrics.json",
+    "sha256": "713d854f7dd4e3de84d3abd2a3bf56d8910b392bd3272e7de1440a7f17b7a41d"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261106_144100_600964\\RNN\\RNN_patience10\\test_predictions.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261106_144100_600964/RNN/RNN_patience10/test_predictions.json",
+    "sha256": "99944007155cc2d4bdd178ba200f5ab9e2818b56922a78f90d049075acdf5eef"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\temp\\CAMELYON16_RNN_Rerun_20261106_144100_600964\\RNN\\RNN_patience10\\training_summary.json",
+    "destination": "results/temp/CAMELYON16_RNN_Rerun_20261106_144100_600964/RNN/RNN_patience10/training_summary.json",
+    "sha256": "d74b57fc7eae9cd74076856453a98a0069fce2fe218c2f52ae017c746c4da280"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\patience10_split_on_CAMELYON16.json",
+    "destination": "splits/patience10_split_on_CAMELYON16.json",
+    "sha256": "f755ee68b75d5947ccb9fd6baef74c6d96a653187a6634785e49b34e5dec5832"
+  },
+  {
+    "source": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\patience10_split_on_BRACS.json",
+    "destination": "splits/patience10_split_on_BRACS.json",
+    "sha256": "48fb8118d12b1991012273a7ad02d9c7448a84d1d6abef10315e3338bc060e58"
+  },
+  {
+    "source": "论文优化稿_20261108\\protocol_audit.json",
+    "destination": "results/protocol_audit.json",
+    "sha256": "32395683efdc1e697d15b1c4cda51202518729e2bee4d8e182a9e682177e48e4"
+  }
+]

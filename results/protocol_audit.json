@@ -1,0 +1,362 @@
+[
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MeanPool\\MeanPool_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MaxPool\\MaxPool_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\ABMIL\\ABMIL_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\MILRNN_Top10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\TransMIL\\TransMIL_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\GTP\\GTP_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\SlideGraph\\SlideGraph_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\DSMIL\\DSMIL_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\CLAM_SB\\CLAM_SB_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\Camelyon\\Ours\\Ours_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MeanPool\\MeanPool_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MaxPool\\MaxPool_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\ABMIL\\ABMIL_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\MILRNN_Top10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\TransMIL\\TransMIL_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\GTP\\GTP_NEWResult\\GTP_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\SlideGraph\\SlideGraph_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\DSMIL\\DSMIL_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\CLAM_SB\\CLAM_SB_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\compare\\BRACS\\Ours\\Ours_patience10_NEWResult",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 31,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A1_SelfLoop_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A2_GAT_DSMIL_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\A3_GAT_NoSelect_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B1_GAT2_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B2_GAT3_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B3_GCN1_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B4_GCN2_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\B5_GCN3_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C1_Level2_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  },
+  {
+    "directory": "WSI云端备份\\code\\WSI\\WSI_pretrain\\model\\MIL\\Ablation_NEW\\CAMELYON16\\C2_Level3_Joint_patience10",
+    "patience": 10,
+    "split_checks": [
+      {
+        "train": true,
+        "val": true
+      }
+    ],
+    "prediction_count": 129,
+    "metrics_recomputed": true
+  }
+]

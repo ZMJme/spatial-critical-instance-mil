@@ -1,0 +1,23 @@
+{
+  "model": "CAMELYON16_A1_SelfLoop_Joint_patience10",
+  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/model.pth",
+  "test_data_path": "/data/database/CAMELYON16/pkl_data/testing/20xbags",
+  "graph_edges": "self-loops only; all patches retained",
+  "n": 129,
+  "average": "binary",
+  "positive_label": 1,
+  "precision": 0.9487179487179487,
+  "accuracy": 0.8992248062015504,
+  "recall": 0.7708333333333334,
+  "f1": 0.8505747126436781,
+  "confusion_matrix_labels_0_1": [
+    [
+      79,
+      2
+    ],
+    [
+      11,
+      37
+    ]
+  ]
+}

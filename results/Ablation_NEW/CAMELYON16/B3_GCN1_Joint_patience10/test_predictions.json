@@ -1,0 +1,776 @@
+[
+  {
+    "file": "test_001_4527_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_002_5545_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_003_2994_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0033176119904965162
+  },
+  {
+    "file": "test_004_6335_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.0113564133644104
+  },
+  {
+    "file": "test_005_2373_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0011955127120018005
+  },
+  {
+    "file": "test_006_7250_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0006289320299401879
+  },
+  {
+    "file": "test_007_3036_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.043712422251701355
+  },
+  {
+    "file": "test_008_6647_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9991849064826965
+  },
+  {
+    "file": "test_009_4319_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0017888303846120834
+  },
+  {
+    "file": "test_010_11735_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9479882717132568
+  },
+  {
+    "file": "test_011_3960_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.017271988093852997
+  },
+  {
+    "file": "test_012_5108_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.09024598449468613
+  },
+  {
+    "file": "test_013_1815_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.004062826745212078
+  },
+  {
+    "file": "test_014_8609_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 2.7084563043899834e-05
+  },
+  {
+    "file": "test_015_2568_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04099259525537491
+  },
+  {
+    "file": "test_016_8941_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_017_4643_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.026188917458057404
+  },
+  {
+    "file": "test_018_2494_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.00011658424773486331
+  },
+  {
+    "file": "test_019_13030_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 9.022866288432851e-05
+  },
+  {
+    "file": "test_020_858_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.00018726081179920584
+  },
+  {
+    "file": "test_021_14826_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_022_7775_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.007699985522776842
+  },
+  {
+    "file": "test_023_6765_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02450387366116047
+  },
+  {
+    "file": "test_024_2622_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.017290426418185234
+  },
+  {
+    "file": "test_025_923_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.002407855587080121
+  },
+  {
+    "file": "test_026_3534_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9943395256996155
+  },
+  {
+    "file": "test_027_4704_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_028_7675_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.25461679697036743
+  },
+  {
+    "file": "test_029_2573_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.8541426062583923
+  },
+  {
+    "file": "test_030_3842_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.05131750553846359
+  },
+  {
+    "file": "test_031_11791_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0526014007627964
+  },
+  {
+    "file": "test_032_9272_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.009472479112446308
+  },
+  {
+    "file": "test_033_17228_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.001996908336877823
+  },
+  {
+    "file": "test_034_3121_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02031097374856472
+  },
+  {
+    "file": "test_035_5856_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.005488525610417128
+  },
+  {
+    "file": "test_036_4410_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0069016022607684135
+  },
+  {
+    "file": "test_037_5187_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.013725552707910538
+  },
+  {
+    "file": "test_038_4587_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.027234390377998352
+  },
+  {
+    "file": "test_039_1031_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02379440888762474
+  },
+  {
+    "file": "test_040_3239_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999840259552002
+  },
+  {
+    "file": "test_041_6409_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0332147479057312
+  },
+  {
+    "file": "test_042_22830_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.05023788660764694
+  },
+  {
+    "file": "test_043_2715_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.002744142198935151
+  },
+  {
+    "file": "test_044_3365_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.00023817672627046704
+  },
+  {
+    "file": "test_045_2993_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.008663633838295937
+  },
+  {
+    "file": "test_046_1775_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.984176754951477
+  },
+  {
+    "file": "test_047_4862_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.10621843487024307
+  },
+  {
+    "file": "test_048_12192_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.0029071758035570383
+  },
+  {
+    "file": "test_050_7587_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.028868312016129494
+  },
+  {
+    "file": "test_051_2920_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9014485478401184
+  },
+  {
+    "file": "test_052_4037_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.00867643766105175
+  },
+  {
+    "file": "test_053_14270_0.pth",
+    "label": 0,
+    "prediction": 1,
+    "tumor_probability": 0.593367874622345
+  },
+  {
+    "file": "test_054_5041_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.003745986381545663
+  },
+  {
+    "file": "test_055_2569_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04986848309636116
+  },
+  {
+    "file": "test_056_8190_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0012251893058419228
+  },
+  {
+    "file": "test_057_2256_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.007428220938891172
+  },
+  {
+    "file": "test_058_9796_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.10364700108766556
+  },
+  {
+    "file": "test_059_6111_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.008635650388896465
+  },
+  {
+    "file": "test_060_2049_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0002901821571867913
+  },
+  {
+    "file": "test_061_6911_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_062_1779_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 2.1222011127974838e-05
+  },
+  {
+    "file": "test_063_6361_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 2.5284525690949522e-05
+  },
+  {
+    "file": "test_064_1172_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9989149570465088
+  },
+  {
+    "file": "test_065_844_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999996423721313
+  },
+  {
+    "file": "test_066_7667_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 1.4689420822833199e-05
+  },
+  {
+    "file": "test_067_8776_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.000232899677939713
+  },
+  {
+    "file": "test_068_6871_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9994576573371887
+  },
+  {
+    "file": "test_069_20146_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.028857726603746414
+  },
+  {
+    "file": "test_070_3066_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.006014403887093067
+  },
+  {
+    "file": "test_071_3682_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999959468841553
+  },
+  {
+    "file": "test_072_898_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0010316249681636691
+  },
+  {
+    "file": "test_073_6934_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_074_6468_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.00435263616964221
+  },
+  {
+    "file": "test_075_6485_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999998807907104
+  },
+  {
+    "file": "test_076_7455_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.003518175333738327
+  },
+  {
+    "file": "test_077_9703_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0002671720867510885
+  },
+  {
+    "file": "test_078_4095_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.036237746477127075
+  },
+  {
+    "file": "test_079_3786_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9285358190536499
+  },
+  {
+    "file": "test_080_5571_0.pth",
+    "label": 0,
+    "prediction": 1,
+    "tumor_probability": 0.9991335272789001
+  },
+  {
+    "file": "test_081_4822_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.007129258010536432
+  },
+  {
+    "file": "test_082_7414_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999971389770508
+  },
+  {
+    "file": "test_083_1843_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.026516864076256752
+  },
+  {
+    "file": "test_084_2244_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.0004001162596978247
+  },
+  {
+    "file": "test_085_2507_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.008567986078560352
+  },
+  {
+    "file": "test_086_5691_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.012425774708390236
+  },
+  {
+    "file": "test_087_3987_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.029628384858369827
+  },
+  {
+    "file": "test_088_2840_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0067389896139502525
+  },
+  {
+    "file": "test_089_5073_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.08338262140750885
+  },
+  {
+    "file": "test_090_12456_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_091_1899_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.005062844138592482
+  },
+  {
+    "file": "test_092_7633_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_093_3792_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.003580464283004403
+  },
+  {
+    "file": "test_094_5282_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999039173126221
+  },
+  {
+    "file": "test_095_5094_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.00016793962277006358
+  },
+  {
+    "file": "test_096_1453_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04748787730932236
+  },
+  {
+    "file": "test_097_8036_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.009066404774785042
+  },
+  {
+    "file": "test_098_6111_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.05188639089465141
+  },
+  {
+    "file": "test_099_5906_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.05719560757279396
+  },
+  {
+    "file": "test_100_8348_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 7.857287710066885e-05
+  },
+  {
+    "file": "test_101_7434_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0017895662458613515
+  },
+  {
+    "file": "test_102_1705_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.4084528088569641
+  },
+  {
+    "file": "test_103_4035_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02696109749376774
+  },
+  {
+    "file": "test_104_7882_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999792575836182
+  },
+  {
+    "file": "test_105_23590_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999139308929443
+  },
+  {
+    "file": "test_106_2734_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.002188556594774127
+  },
+  {
+    "file": "test_107_1373_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.09434434771537781
+  },
+  {
+    "file": "test_108_1395_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.999988317489624
+  },
+  {
+    "file": "test_109_5505_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.070487841963768
+  },
+  {
+    "file": "test_110_8711_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.067454494535923
+  },
+  {
+    "file": "test_111_1718_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0008134053205139935
+  },
+  {
+    "file": "test_112_3620_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.016853665933012962
+  },
+  {
+    "file": "test_113_11141_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9998190999031067
+  },
+  {
+    "file": "test_114_13007_0.pth",
+    "label": 0,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_115_1056_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.00100577506236732
+  },
+  {
+    "file": "test_116_3638_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.023328794166445732
+  },
+  {
+    "file": "test_117_4022_1.pth",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.3170675039291382
+  },
+  {
+    "file": "test_118_3241_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0197075717151165
+  },
+  {
+    "file": "test_119_1617_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06276919692754745
+  },
+  {
+    "file": "test_120_9394_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.036464471369981766
+  },
+  {
+    "file": "test_121_3806_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 1.0
+  },
+  {
+    "file": "test_122_6079_1.pth",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9997602105140686
+  },
+  {
+    "file": "test_123_2075_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.004208364058285952
+  },
+  {
+    "file": "test_124_1329_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0670316219329834
+  },
+  {
+    "file": "test_125_7608_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.08787598460912704
+  },
+  {
+    "file": "test_126_6723_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0439009964466095
+  },
+  {
+    "file": "test_127_13422_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 2.2273183276411146e-05
+  },
+  {
+    "file": "test_128_1808_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.00239793723449111
+  },
+  {
+    "file": "test_129_2125_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0001326591009274125
+  },
+  {
+    "file": "test_130_3689_0.pth",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.007226212881505489
+  }
+]

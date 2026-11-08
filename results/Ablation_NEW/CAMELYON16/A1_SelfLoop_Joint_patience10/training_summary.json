@@ -1,0 +1,6 @@
+{
+  "experiment": "A1_SelfLoop_Joint_patience10",
+  "best_epoch": 9,
+  "best_validation_ce": 0.08316555223050862,
+  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/model.pth"
+}

@@ -1,0 +1,6 @@
+{
+  "experiment": "C1_Level2_Joint_patience10",
+  "best_epoch": 10,
+  "best_validation_ce": 0.3106381500993107,
+  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/C1_Level2_Joint_patience10/model.pth"
+}

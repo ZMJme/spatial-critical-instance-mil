@@ -1,0 +1,5 @@
+{
+  "model": "GTP",
+  "best_epoch": 11,
+  "best_validation_ce": 0.11631486022465483
+}

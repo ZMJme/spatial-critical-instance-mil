@@ -1,0 +1,5 @@
+{
+  "model": "ABMIL",
+  "best_epoch": 12,
+  "best_validation_ce": 0.6320919998362661
+}

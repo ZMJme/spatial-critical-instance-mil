@@ -1,0 +1,5 @@
+{
+  "model": "SlideGraph",
+  "best_epoch": 6,
+  "best_validation_ce": 0.5718778038604392
+}

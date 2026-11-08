@@ -1,0 +1,5 @@
+{
+  "model": "DSMIL",
+  "best_epoch": 4,
+  "best_validation_ce": 0.5234938191337278
+}

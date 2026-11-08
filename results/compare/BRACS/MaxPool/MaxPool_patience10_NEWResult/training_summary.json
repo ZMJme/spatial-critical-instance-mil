@@ -1,0 +1,5 @@
+{
+  "model": "MaxPool",
+  "best_epoch": 25,
+  "best_validation_ce": 0.8129379877122119
+}

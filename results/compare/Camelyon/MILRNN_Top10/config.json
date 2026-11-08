@@ -1,0 +1,22 @@
+{
+  "model": "MILRNN_Top10_DINO",
+  "dataset": "CAMELYON16",
+  "feature_dim": 384,
+  "class_num": 2,
+  "hidden_dim": 128,
+  "top_k": 10,
+  "selection_order": "descending tumor probability",
+  "scorer": "Linear(384,2)",
+  "scorer_training": "CE on highest-tumor-score instance per slide",
+  "rnn_training": "bag CE; frozen scorer",
+  "optimizer": "Adam",
+  "learning_rate": 0.0003,
+  "max_epochs_per_stage": 100,
+  "patience": 10,
+  "early_stopping_logic": "reset to 10 on improvement, then decrement",
+  "consecutive_non_improvements_to_stop": 9,
+  "training_seed": null,
+  "train_order": "fixed saved split order",
+  "data_path": "/data/database/CAMELYON16/pkl_data/training/20xbags",
+  "adaptation": "DINO-feature adaptation; not full official reproduction"
+}

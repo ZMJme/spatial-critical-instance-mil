@@ -1,0 +1,40 @@
+{
+  "model": "BRACS_MILRNN_Top10_DINO",
+  "run_id": "BRACS_MILRNN_Top10_20261107_102149_242352",
+  "scorer_weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/temp/BRACS_MILRNN_Top10_20261107_102149_242352/scorer_best.pth",
+  "rnn_weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/temp/BRACS_MILRNN_Top10_20261107_102149_242352/rnn_best.pth",
+  "n": 31,
+  "average": "macro",
+  "top_k": 10,
+  "selection_score": "1 - P(class 0)",
+  "precision": 0.7099358974358975,
+  "accuracy": 0.7419354838709677,
+  "recall": 0.6904761904761904,
+  "f1": 0.6858874458874459,
+  "confusion_matrix_labels_0_1_2_3": [
+    [
+      12,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      4,
+      0,
+      1
+    ],
+    [
+      0,
+      3,
+      3,
+      1
+    ],
+    [
+      0,
+      1,
+      1,
+      4
+    ]
+  ]
+}

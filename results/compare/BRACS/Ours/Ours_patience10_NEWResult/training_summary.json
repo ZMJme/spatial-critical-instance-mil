@@ -1,0 +1,5 @@
+{
+  "model": "Ours",
+  "best_epoch": 12,
+  "best_validation_ce": 0.4378364047284592
+}

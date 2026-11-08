@@ -1,0 +1,38 @@
+{
+  "model": "BRACS_GTP_Rerun_patience10",
+  "run_id": "BRACS_GTP_Rerun_20261106_140413_556480",
+  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/temp/BRACS_GTP_Rerun_20261106_140413_556480/GTP/GTP_patience10/model.pth",
+  "test_data_path": "/data/database/BRACS/pkl_data/old/test",
+  "n": 31,
+  "average": "macro",
+  "precision": 0.703030303030303,
+  "accuracy": 0.7419354838709677,
+  "recall": 0.6904761904761905,
+  "f1": 0.6625816993464052,
+  "confusion_matrix_labels_0_1_2_3": [
+    [
+      12,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      2,
+      2,
+      2
+    ],
+    [
+      0,
+      1,
+      3,
+      3
+    ],
+    [
+      0,
+      0,
+      0,
+      6
+    ]
+  ]
+}

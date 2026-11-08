@@ -1,0 +1,37 @@
+{
+  "model": "BRACS_MaxPool_patience10",
+  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/compare/BRACS/MaxPool/MaxPool_patience10/model.pth",
+  "test_data_path": "/data/database/BRACS/pkl_data/old/test",
+  "n": 31,
+  "average": "macro",
+  "precision": 0.6383928571428571,
+  "accuracy": 0.7096774193548387,
+  "recall": 0.6547619047619048,
+  "f1": 0.634865134865135,
+  "confusion_matrix_labels_0_1_2_3": [
+    [
+      12,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      1
+    ],
+    [
+      0,
+      2,
+      2,
+      3
+    ],
+    [
+      0,
+      1,
+      2,
+      3
+    ]
+  ]
+}

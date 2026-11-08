@@ -1,0 +1,157 @@
+[
+  {
+    "file": "BRACS_1003678_782_3.pth",
+    "label": 3,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1003692_2380_3.pth",
+    "label": 3,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1003700_1862_1.pth",
+    "label": 1,
+    "prediction": 1
+  },
+  {
+    "file": "BRACS_1003713_5076_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1003714_735_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1003724_3210_1.pth",
+    "label": 1,
+    "prediction": 1
+  },
+  {
+    "file": "BRACS_1249_1148_1.pth",
+    "label": 1,
+    "prediction": 1
+  },
+  {
+    "file": "BRACS_1261_26540_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1267_16449_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1369_3148_2.pth",
+    "label": 2,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1386_54005_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1489_416_2.pth",
+    "label": 2,
+    "prediction": 2
+  },
+  {
+    "file": "BRACS_1512_1093_2.pth",
+    "label": 2,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1513_3541_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1584_1497_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1590_1591_3.pth",
+    "label": 3,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1601_1158_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1641_4836_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1653_574_2.pth",
+    "label": 2,
+    "prediction": 1
+  },
+  {
+    "file": "BRACS_1811_1297_2.pth",
+    "label": 2,
+    "prediction": 1
+  },
+  {
+    "file": "BRACS_1820_858_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_1826_1726_3.pth",
+    "label": 3,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1919_2550_2.pth",
+    "label": 2,
+    "prediction": 2
+  },
+  {
+    "file": "BRACS_1920_1631_2.pth",
+    "label": 2,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_1980_1964_1.pth",
+    "label": 1,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_292_1534_3.pth",
+    "label": 3,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_3282_3333_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_3292_4457_0.pth",
+    "label": 0,
+    "prediction": 0
+  },
+  {
+    "file": "BRACS_3300_60_1.pth",
+    "label": 1,
+    "prediction": 2
+  },
+  {
+    "file": "BRACS_3324_1297_1.pth",
+    "label": 1,
+    "prediction": 3
+  },
+  {
+    "file": "BRACS_739_1281_3.pth",
+    "label": 3,
+    "prediction": 3
+  }
+]

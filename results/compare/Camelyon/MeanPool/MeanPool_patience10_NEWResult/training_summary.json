@@ -1,5 +1,0 @@
-{
-  "model": "MeanPool",
-  "best_epoch": 4,
-  "best_validation_ce": 0.6071869951707346
-}

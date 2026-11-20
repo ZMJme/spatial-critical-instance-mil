@@ -1,0 +1,2 @@
+﻿model,run_type,weight_path,test_data_path,n,negative,positive,precision,accuracy,recall,f1,TN,FP,FN,TP,confusion_matrix
+DSMIL,新测试,/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/DSMIL/DSMIL_patience10_NEWResult/model.pth,/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags,129,80,49,0.9024390243902439,0.875968992248062,0.7551020408163265,0.8222222222222222,76,4,12,37,"[[76, 4], [12, 37]]"

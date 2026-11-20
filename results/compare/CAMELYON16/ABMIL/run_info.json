@@ -1,0 +1,8 @@
+{
+  "checkpoint_sha256": "d16ff501561ca5cfaf321564bbeb7cff9cbd104b8f32a4e22c89b9534832aecf",
+  "timestamp": "20261120_124123_710466",
+  "device": "cuda:0",
+  "prediction_rule": "bag logits argmax",
+  "data_loader": "原Notebook get_data",
+  "training": false
+}

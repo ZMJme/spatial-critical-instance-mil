@@ -1,0 +1,144 @@
+2026-11-20 12:38:37,426 - INFO - MaxPool新测试；不训练，不修改原检查点
+2026-11-20 12:38:37,427 - INFO - 权重：/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/MaxPool/MaxPool_patience10_NEWResult/model.pth
+2026-11-20 12:38:37,427 - INFO - 测试目录：/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags
+2026-11-20 12:38:37,427 - INFO - 设备：cuda:0；PyTorch：2.8.0+cu128
+2026-11-20 12:38:37,427 - INFO - 原训练配置：{"model": "MaxPool", "model_class": "MaxPooling", "class_num": 2, "feature_dim": 384, "learning_rate": 0.0003, "optimizer": "Adam", "max_epochs": 100, "patience": 10, "early_stopping_logic": "Reset to 10 on improvement, then decrement every epoch", "consecutive_non_improvements_to_stop": 9, "training_loss": "bag CE", "checkpoint_selection": "minimum validation bag CE", "train_order": "fixed shared split order; no epoch reshuffling", "training_seed": null, "data_path": "/data/database/CAMELYON16/pkl_data/training/20xbags"}
+2026-11-20 12:38:37,449 - INFO - 实际加载模型结构：
+MaxPooling(
+  (mil): FCLayer(
+    (fc): Sequential(
+      (0): Linear(in_features=384, out_features=2, bias=True)
+    )
+  )
+)
+2026-11-20 12:38:37,516 - INFO - test_001 | label=1 | prediction=1 | tumor_probability=0.99951923
+2026-11-20 12:38:37,812 - INFO - test_002 | label=1 | prediction=1 | tumor_probability=0.78547186
+2026-11-20 12:38:37,852 - INFO - test_003 | label=0 | prediction=0 | tumor_probability=0.00264776
+2026-11-20 12:38:37,938 - INFO - test_004 | label=1 | prediction=1 | tumor_probability=0.72898918
+2026-11-20 12:38:37,969 - INFO - test_005 | label=0 | prediction=0 | tumor_probability=0.00138646
+2026-11-20 12:38:38,250 - INFO - test_006 | label=0 | prediction=1 | tumor_probability=0.76981002
+2026-11-20 12:38:38,290 - INFO - test_007 | label=0 | prediction=0 | tumor_probability=0.00542861
+2026-11-20 12:38:38,376 - INFO - test_008 | label=1 | prediction=1 | tumor_probability=0.70110440
+2026-11-20 12:38:38,431 - INFO - test_009 | label=0 | prediction=0 | tumor_probability=0.00244921
+2026-11-20 12:38:38,774 - INFO - test_010 | label=1 | prediction=1 | tumor_probability=0.85613811
+2026-11-20 12:38:38,823 - INFO - test_011 | label=1 | prediction=0 | tumor_probability=0.15440239
+2026-11-20 12:38:38,889 - INFO - test_012 | label=0 | prediction=0 | tumor_probability=0.00245048
+2026-11-20 12:38:39,099 - INFO - test_013 | label=1 | prediction=0 | tumor_probability=0.03430404
+2026-11-20 12:38:39,211 - INFO - test_014 | label=0 | prediction=0 | tumor_probability=0.00669844
+2026-11-20 12:38:39,246 - INFO - test_015 | label=0 | prediction=0 | tumor_probability=0.16994093
+2026-11-20 12:38:39,550 - INFO - test_016 | label=1 | prediction=1 | tumor_probability=0.99998367
+2026-11-20 12:38:39,611 - INFO - test_017 | label=0 | prediction=0 | tumor_probability=0.00540989
+2026-11-20 12:38:39,643 - INFO - test_018 | label=0 | prediction=0 | tumor_probability=0.00024769
+2026-11-20 12:38:40,005 - INFO - test_019 | label=0 | prediction=0 | tumor_probability=0.03911973
+2026-11-20 12:38:40,017 - INFO - test_020 | label=0 | prediction=0 | tumor_probability=0.02719369
+2026-11-20 12:38:40,405 - INFO - test_021 | label=1 | prediction=1 | tumor_probability=0.99998307
+2026-11-20 12:38:40,505 - INFO - test_022 | label=0 | prediction=0 | tumor_probability=0.03299094
+2026-11-20 12:38:40,595 - INFO - test_023 | label=0 | prediction=0 | tumor_probability=0.00313970
+2026-11-20 12:38:40,815 - INFO - test_024 | label=0 | prediction=0 | tumor_probability=0.00116536
+2026-11-20 12:38:40,828 - INFO - test_025 | label=0 | prediction=0 | tumor_probability=0.01598841
+2026-11-20 12:38:40,871 - INFO - test_026 | label=1 | prediction=1 | tumor_probability=0.98168898
+2026-11-20 12:38:40,932 - INFO - test_027 | label=1 | prediction=1 | tumor_probability=0.99490297
+2026-11-20 12:38:41,241 - INFO - test_028 | label=0 | prediction=0 | tumor_probability=0.06991632
+2026-11-20 12:38:41,277 - INFO - test_029 | label=1 | prediction=1 | tumor_probability=0.99908066
+2026-11-20 12:38:41,326 - INFO - test_030 | label=1 | prediction=0 | tumor_probability=0.04157923
+2026-11-20 12:38:41,674 - INFO - test_031 | label=0 | prediction=0 | tumor_probability=0.12108556
+2026-11-20 12:38:41,797 - INFO - test_032 | label=0 | prediction=0 | tumor_probability=0.11736996
+2026-11-20 12:38:42,233 - INFO - test_033 | label=1 | prediction=0 | tumor_probability=0.48379394
+2026-11-20 12:38:42,274 - INFO - test_034 | label=0 | prediction=0 | tumor_probability=0.03500237
+2026-11-20 12:38:42,350 - INFO - test_035 | label=0 | prediction=0 | tumor_probability=0.03386891
+2026-11-20 12:38:42,611 - INFO - test_036 | label=0 | prediction=0 | tumor_probability=0.07544754
+2026-11-20 12:38:42,682 - INFO - test_037 | label=0 | prediction=0 | tumor_probability=0.00063754
+2026-11-20 12:38:42,745 - INFO - test_038 | label=1 | prediction=0 | tumor_probability=0.34587708
+2026-11-20 12:38:42,760 - INFO - test_039 | label=0 | prediction=0 | tumor_probability=0.00689967
+2026-11-20 12:38:42,804 - INFO - test_040 | label=1 | prediction=1 | tumor_probability=0.99335253
+2026-11-20 12:38:43,083 - INFO - test_041 | label=0 | prediction=0 | tumor_probability=0.00021551
+2026-11-20 12:38:43,590 - INFO - test_042 | label=0 | prediction=0 | tumor_probability=0.36189577
+2026-11-20 12:38:43,626 - INFO - test_043 | label=0 | prediction=0 | tumor_probability=0.10241492
+2026-11-20 12:38:43,672 - INFO - test_044 | label=0 | prediction=0 | tumor_probability=0.01440008
+2026-11-20 12:38:43,895 - INFO - test_045 | label=0 | prediction=0 | tumor_probability=0.08036835
+2026-11-20 12:38:43,919 - INFO - test_046 | label=1 | prediction=1 | tumor_probability=0.72010088
+2026-11-20 12:38:43,984 - INFO - test_047 | label=0 | prediction=0 | tumor_probability=0.24040252
+2026-11-20 12:38:44,338 - INFO - test_048 | label=1 | prediction=1 | tumor_probability=0.98195100
+2026-11-20 12:38:44,438 - INFO - test_050 | label=0 | prediction=0 | tumor_probability=0.34033680
+2026-11-20 12:38:44,476 - INFO - test_051 | label=1 | prediction=1 | tumor_probability=0.98138589
+2026-11-20 12:38:44,529 - INFO - test_052 | label=1 | prediction=0 | tumor_probability=0.08360798
+2026-11-20 12:38:44,918 - INFO - test_053 | label=0 | prediction=0 | tumor_probability=0.18139933
+2026-11-20 12:38:45,177 - INFO - test_054 | label=0 | prediction=0 | tumor_probability=0.01713029
+2026-11-20 12:38:45,211 - INFO - test_055 | label=0 | prediction=0 | tumor_probability=0.00672558
+2026-11-20 12:38:45,317 - INFO - test_056 | label=0 | prediction=0 | tumor_probability=0.00725868
+2026-11-20 12:38:45,349 - INFO - test_057 | label=0 | prediction=0 | tumor_probability=0.02322641
+2026-11-20 12:38:45,683 - INFO - test_058 | label=0 | prediction=0 | tumor_probability=0.00328006
+2026-11-20 12:38:45,765 - INFO - test_059 | label=0 | prediction=0 | tumor_probability=0.03794456
+2026-11-20 12:38:45,793 - INFO - test_060 | label=0 | prediction=0 | tumor_probability=0.00830848
+2026-11-20 12:38:46,090 - INFO - test_061 | label=1 | prediction=1 | tumor_probability=0.99992430
+2026-11-20 12:38:46,114 - INFO - test_062 | label=0 | prediction=0 | tumor_probability=0.00298949
+2026-11-20 12:38:46,195 - INFO - test_063 | label=0 | prediction=0 | tumor_probability=0.00210118
+2026-11-20 12:38:46,212 - INFO - test_064 | label=1 | prediction=1 | tumor_probability=0.99988508
+2026-11-20 12:38:46,224 - INFO - test_065 | label=1 | prediction=1 | tumor_probability=0.96901304
+2026-11-20 12:38:46,529 - INFO - test_066 | label=1 | prediction=0 | tumor_probability=0.03873774
+2026-11-20 12:38:46,644 - INFO - test_067 | label=0 | prediction=0 | tumor_probability=0.05519222
+2026-11-20 12:38:46,943 - INFO - test_068 | label=1 | prediction=1 | tumor_probability=0.98994195
+2026-11-20 12:38:47,417 - INFO - test_069 | label=1 | prediction=0 | tumor_probability=0.43084586
+2026-11-20 12:38:47,460 - INFO - test_070 | label=0 | prediction=0 | tumor_probability=0.00139806
+2026-11-20 12:38:47,506 - INFO - test_071 | label=1 | prediction=1 | tumor_probability=0.99933428
+2026-11-20 12:38:47,517 - INFO - test_072 | label=0 | prediction=0 | tumor_probability=0.01799731
+2026-11-20 12:38:47,613 - INFO - test_073 | label=1 | prediction=1 | tumor_probability=0.99980694
+2026-11-20 12:38:47,897 - INFO - test_074 | label=1 | prediction=0 | tumor_probability=0.36768791
+2026-11-20 12:38:47,982 - INFO - test_075 | label=1 | prediction=1 | tumor_probability=0.99965250
+2026-11-20 12:38:48,083 - INFO - test_076 | label=0 | prediction=0 | tumor_probability=0.04667377
+2026-11-20 12:38:48,400 - INFO - test_077 | label=0 | prediction=0 | tumor_probability=0.00764838
+2026-11-20 12:38:48,452 - INFO - test_078 | label=0 | prediction=0 | tumor_probability=0.00755364
+2026-11-20 12:38:48,503 - INFO - test_079 | label=1 | prediction=0 | tumor_probability=0.08366517
+2026-11-20 12:38:48,762 - INFO - test_080 | label=0 | prediction=0 | tumor_probability=0.10519057
+2026-11-20 12:38:48,830 - INFO - test_081 | label=0 | prediction=1 | tumor_probability=0.55849159
+2026-11-20 12:38:48,923 - INFO - test_082 | label=1 | prediction=1 | tumor_probability=0.99816918
+2026-11-20 12:38:49,134 - INFO - test_083 | label=0 | prediction=0 | tumor_probability=0.29034379
+2026-11-20 12:38:49,163 - INFO - test_084 | label=1 | prediction=0 | tumor_probability=0.05067668
+2026-11-20 12:38:49,198 - INFO - test_085 | label=0 | prediction=0 | tumor_probability=0.30864060
+2026-11-20 12:38:49,278 - INFO - test_086 | label=0 | prediction=0 | tumor_probability=0.09974442
+2026-11-20 12:38:49,330 - INFO - test_087 | label=0 | prediction=0 | tumor_probability=0.00092032
+2026-11-20 12:38:49,367 - INFO - test_088 | label=0 | prediction=0 | tumor_probability=0.05880431
+2026-11-20 12:38:49,625 - INFO - test_089 | label=0 | prediction=0 | tumor_probability=0.03039644
+2026-11-20 12:38:49,984 - INFO - test_090 | label=1 | prediction=1 | tumor_probability=0.99998617
+2026-11-20 12:38:50,009 - INFO - test_091 | label=0 | prediction=0 | tumor_probability=0.00710546
+2026-11-20 12:38:50,108 - INFO - test_092 | label=1 | prediction=1 | tumor_probability=0.99289566
+2026-11-20 12:38:50,164 - INFO - test_093 | label=0 | prediction=0 | tumor_probability=0.01364995
+2026-11-20 12:38:50,233 - INFO - test_094 | label=1 | prediction=1 | tumor_probability=0.64793354
+2026-11-20 12:38:50,496 - INFO - test_095 | label=0 | prediction=0 | tumor_probability=0.02860546
+2026-11-20 12:38:50,516 - INFO - test_096 | label=0 | prediction=1 | tumor_probability=0.85830247
+2026-11-20 12:38:50,628 - INFO - test_097 | label=1 | prediction=1 | tumor_probability=0.73774058
+2026-11-20 12:38:50,900 - INFO - test_098 | label=0 | prediction=0 | tumor_probability=0.03505302
+2026-11-20 12:38:50,978 - INFO - test_099 | label=1 | prediction=0 | tumor_probability=0.04058741
+2026-11-20 12:38:51,095 - INFO - test_100 | label=0 | prediction=0 | tumor_probability=0.01883451
+2026-11-20 12:38:51,398 - INFO - test_101 | label=0 | prediction=0 | tumor_probability=0.04529215
+2026-11-20 12:38:51,419 - INFO - test_102 | label=1 | prediction=0 | tumor_probability=0.31108576
+2026-11-20 12:38:51,474 - INFO - test_103 | label=0 | prediction=0 | tumor_probability=0.00343604
+2026-11-20 12:38:51,786 - INFO - test_104 | label=1 | prediction=1 | tumor_probability=0.94208992
+2026-11-20 12:38:52,323 - INFO - test_105 | label=1 | prediction=1 | tumor_probability=0.98716438
+2026-11-20 12:38:52,359 - INFO - test_106 | label=0 | prediction=0 | tumor_probability=0.00687825
+2026-11-20 12:38:52,382 - INFO - test_107 | label=0 | prediction=0 | tumor_probability=0.01577824
+2026-11-20 12:38:52,399 - INFO - test_108 | label=1 | prediction=1 | tumor_probability=0.92834920
+2026-11-20 12:38:52,478 - INFO - test_109 | label=0 | prediction=0 | tumor_probability=0.01470426
+2026-11-20 12:38:52,810 - INFO - test_110 | label=1 | prediction=0 | tumor_probability=0.36847469
+2026-11-20 12:38:52,830 - INFO - test_111 | label=0 | prediction=0 | tumor_probability=0.00192721
+2026-11-20 12:38:52,881 - INFO - test_112 | label=0 | prediction=0 | tumor_probability=0.01698958
+2026-11-20 12:38:53,227 - INFO - test_113 | label=1 | prediction=1 | tumor_probability=0.94679731
+2026-11-20 12:38:53,411 - INFO - test_114 | label=1 | prediction=1 | tumor_probability=0.99809390
+2026-11-20 12:38:53,426 - INFO - test_115 | label=0 | prediction=0 | tumor_probability=0.00115593
+2026-11-20 12:38:53,666 - INFO - test_116 | label=1 | prediction=0 | tumor_probability=0.00380207
+2026-11-20 12:38:53,718 - INFO - test_117 | label=1 | prediction=1 | tumor_probability=0.71020168
+2026-11-20 12:38:53,763 - INFO - test_118 | label=0 | prediction=0 | tumor_probability=0.01193631
+2026-11-20 12:38:53,786 - INFO - test_119 | label=0 | prediction=0 | tumor_probability=0.20040368
+2026-11-20 12:38:54,106 - INFO - test_120 | label=0 | prediction=0 | tumor_probability=0.01205706
+2026-11-20 12:38:54,156 - INFO - test_121 | label=1 | prediction=1 | tumor_probability=0.99959546
+2026-11-20 12:38:54,240 - INFO - test_122 | label=1 | prediction=1 | tumor_probability=0.69758487
+2026-11-20 12:38:54,273 - INFO - test_123 | label=0 | prediction=0 | tumor_probability=0.00168379
+2026-11-20 12:38:54,291 - INFO - test_124 | label=0 | prediction=0 | tumor_probability=0.00056560
+2026-11-20 12:38:54,580 - INFO - test_125 | label=0 | prediction=0 | tumor_probability=0.00056211
+2026-11-20 12:38:54,671 - INFO - test_126 | label=0 | prediction=0 | tumor_probability=0.00101077
+2026-11-20 12:38:55,042 - INFO - test_127 | label=0 | prediction=0 | tumor_probability=0.00327040
+2026-11-20 12:38:55,066 - INFO - test_128 | label=0 | prediction=0 | tumor_probability=0.00292088
+2026-11-20 12:38:55,094 - INFO - test_129 | label=0 | prediction=0 | tumor_probability=0.00038070
+2026-11-20 12:38:55,143 - INFO - test_130 | label=0 | prediction=0 | tumor_probability=0.00841282
+2026-11-20 12:38:55,158 - INFO - TEST MaxPool 新测试 | Pre: 0.918919 | Acc: 0.860465 | Rec: 0.693878 | F1: 0.790698
+2026-11-20 12:38:55,158 - INFO - 混淆矩阵[0,1]：[[77, 3], [15, 34]]

@@ -1,0 +1,2 @@
+﻿model,run_type,weight_path,test_data_path,n,negative,positive,precision,accuracy,recall,f1,TN,FP,FN,TP,confusion_matrix
+CLAM_SB,新测试,/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/CLAM_SB/CLAM_SB_patience10_NEWResult/model.pth,/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags,129,80,49,0.9111111111111111,0.9069767441860465,0.8367346938775511,0.8723404255319149,76,4,8,41,"[[76, 4], [8, 41]]"

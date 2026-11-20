@@ -1,0 +1,2 @@
+﻿model,run_type,weight_path,test_data_path,n,negative,positive,precision,accuracy,recall,f1,TN,FP,FN,TP,confusion_matrix
+ABMIL,新测试,/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/ABMIL/ABMIL_patience10_NEWResult/model.pth,/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags,129,80,49,0.9459459459459459,0.875968992248062,0.7142857142857143,0.813953488372093,78,2,14,35,"[[78, 2], [14, 35]]"

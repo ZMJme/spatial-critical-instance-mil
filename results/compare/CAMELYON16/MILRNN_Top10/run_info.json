@@ -1,0 +1,11 @@
+{
+  "scorer_sha256": "1b2bea28d26e1c57833f4913ff0d706fe5e4b447959f16f5f50b082c5b06235c",
+  "rnn_sha256": "4143fa02254a182918f38e9c96872e15f035c1028c38990308c39c2bfc7c6d03",
+  "timestamp": "20261120_124941_121996",
+  "device": "cuda:0",
+  "torch_version": "2.8.0+cu128",
+  "prediction_rule": "RNN bag logits argmax",
+  "label_source": "测试缓存内部label",
+  "data_loader": "原Notebook get_data",
+  "training": false
+}

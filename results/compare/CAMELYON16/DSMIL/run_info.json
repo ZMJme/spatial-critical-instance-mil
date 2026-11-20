@@ -1,0 +1,9 @@
+{
+  "checkpoint_sha256": "d691b2e4db9825decd7f64e33085d89ce7a3da4fb2c886c16e5fe2f7035870a7",
+  "timestamp": "20261120_125707_694772",
+  "device": "cuda:0",
+  "prediction_rule": "bag logits argmax; no instance-branch mixing",
+  "saved_score": "softmax(bag logits)[tumor]",
+  "data_loader": "原Notebook get_data",
+  "training": false
+}

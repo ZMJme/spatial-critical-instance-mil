@@ -1,0 +1,2 @@
+﻿model,run_type,weight_path,test_data_path,n,negative,positive,precision,accuracy,recall,f1,TN,FP,FN,TP,confusion_matrix
+SlideGraph,新测试,/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/SlideGraph/SlideGraph_patience10/model.pth,/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags,129,80,49,0.5909090909090909,0.6821705426356589,0.5306122448979592,0.5591397849462365,62,18,23,26,"[[62, 18], [23, 26]]"

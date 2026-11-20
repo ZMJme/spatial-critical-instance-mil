@@ -1,0 +1,5 @@
+{
+  "model": "TransMIL",
+  "best_epoch": 9,
+  "best_validation_ce": 0.044067729765999875
+}

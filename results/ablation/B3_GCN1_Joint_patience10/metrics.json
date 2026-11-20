@@ -1,0 +1,27 @@
+{
+  "model": "B3_GCN1_Joint_patience10",
+  "run_type": "新测试",
+  "n": 129,
+  "negative": 80,
+  "positive": 49,
+  "precision": 0.9393939393939394,
+  "accuracy": 0.8449612403100775,
+  "recall": 0.6326530612244898,
+  "f1": 0.7560975609756098,
+  "TN": 78,
+  "FP": 2,
+  "FN": 18,
+  "TP": 31,
+  "confusion_matrix_labels_0_1": [
+    [
+      78,
+      2
+    ],
+    [
+      18,
+      31
+    ]
+  ],
+  "weight_path": "/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/B3_GCN1_Joint_patience10/model.pth",
+  "test_data_path": "/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags"
+}

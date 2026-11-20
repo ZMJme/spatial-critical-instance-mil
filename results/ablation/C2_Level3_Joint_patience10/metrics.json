@@ -1,0 +1,27 @@
+{
+  "model": "C2_Level3_Joint_patience10",
+  "run_type": "新测试",
+  "n": 129,
+  "negative": 80,
+  "positive": 49,
+  "precision": 0.9583333333333334,
+  "accuracy": 0.7906976744186046,
+  "recall": 0.46938775510204084,
+  "f1": 0.6301369863013698,
+  "TN": 79,
+  "FP": 1,
+  "FN": 26,
+  "TP": 23,
+  "confusion_matrix_labels_0_1": [
+    [
+      79,
+      1
+    ],
+    [
+      26,
+      23
+    ]
+  ],
+  "weight_path": "/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/C2_Level3_Joint_patience10/model.pth",
+  "test_data_path": "/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/5xbags"
+}

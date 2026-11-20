@@ -1,0 +1,2 @@
+﻿model,run_type,n,negative,positive,precision,accuracy,recall,f1,TN,FP,FN,TP,confusion_matrix_labels_0_1,weight_path,test_data_path
+B5_GCN3_Joint_patience10,新测试,129,80,49,0.8421052631578947,0.8217054263565892,0.6530612244897959,0.735632183908046,74,6,17,32,"[[74, 6], [17, 32]]",/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/B5_GCN3_Joint_patience10/model.pth,/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags

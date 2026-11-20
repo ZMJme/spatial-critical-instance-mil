@@ -1,0 +1,1550 @@
+[
+  {
+    "file": "test_001_4527_1.pth",
+    "slide_id": "test_001",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9995136260986328,
+    "logits": [
+      -3.3899784088134766,
+      4.238076686859131
+    ],
+    "patch_count": 4527
+  },
+  {
+    "file": "test_002_5545_1.pth",
+    "slide_id": "test_002",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9871460199356079,
+    "logits": [
+      -1.5617839097976685,
+      2.779381275177002
+    ],
+    "patch_count": 5545
+  },
+  {
+    "file": "test_003_2994_0.pth",
+    "slide_id": "test_003",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06561290472745895,
+    "logits": [
+      1.4056330919265747,
+      -1.2504854202270508
+    ],
+    "patch_count": 2994
+  },
+  {
+    "file": "test_004_6335_1.pth",
+    "slide_id": "test_004",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.07722706347703934,
+    "logits": [
+      1.3151699304580688,
+      -1.1654632091522217
+    ],
+    "patch_count": 6335
+  },
+  {
+    "file": "test_005_2373_0.pth",
+    "slide_id": "test_005",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.052321907132864,
+    "logits": [
+      1.5353240966796875,
+      -1.3612756729125977
+    ],
+    "patch_count": 2373
+  },
+  {
+    "file": "test_006_7250_0.pth",
+    "slide_id": "test_006",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.07544709742069244,
+    "logits": [
+      1.4390482902526855,
+      -1.0668301582336426
+    ],
+    "patch_count": 7250
+  },
+  {
+    "file": "test_007_3036_0.pth",
+    "slide_id": "test_007",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.08058842271566391,
+    "logits": [
+      1.2930543422698975,
+      -1.141324520111084
+    ],
+    "patch_count": 3036
+  },
+  {
+    "file": "test_008_6647_1.pth",
+    "slide_id": "test_008",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9941394329071045,
+    "logits": [
+      -2.0293967723846436,
+      3.104236602783203
+    ],
+    "patch_count": 6647
+  },
+  {
+    "file": "test_009_4319_0.pth",
+    "slide_id": "test_009",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.023405209183692932,
+    "logits": [
+      1.9730901718139648,
+      -1.7580230236053467
+    ],
+    "patch_count": 4319
+  },
+  {
+    "file": "test_010_11735_1.pth",
+    "slide_id": "test_010",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.13916610181331635,
+    "logits": [
+      0.9643678069114685,
+      -0.8578656315803528
+    ],
+    "patch_count": 11735
+  },
+  {
+    "file": "test_011_3960_1.pth",
+    "slide_id": "test_011",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.0936673954129219,
+    "logits": [
+      1.2039679288864136,
+      -1.065688133239746
+    ],
+    "patch_count": 3960
+  },
+  {
+    "file": "test_012_5108_0.pth",
+    "slide_id": "test_012",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.006385263986885548,
+    "logits": [
+      2.6443088054656982,
+      -2.403047800064087
+    ],
+    "patch_count": 5108
+  },
+  {
+    "file": "test_013_1815_1.pth",
+    "slide_id": "test_013",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.0801331102848053,
+    "logits": [
+      1.2928321361541748,
+      -1.1477078199386597
+    ],
+    "patch_count": 1815
+  },
+  {
+    "file": "test_014_8609_0.pth",
+    "slide_id": "test_014",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.008695684373378754,
+    "logits": [
+      2.507429361343384,
+      -2.2287652492523193
+    ],
+    "patch_count": 8609
+  },
+  {
+    "file": "test_015_2568_0.pth",
+    "slide_id": "test_015",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.09723265469074249,
+    "logits": [
+      1.183828353881836,
+      -1.044529914855957
+    ],
+    "patch_count": 2568
+  },
+  {
+    "file": "test_016_8941_1.pth",
+    "slide_id": "test_016",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999997615814209,
+    "logits": [
+      -7.396755218505859,
+      7.849592208862305
+    ],
+    "patch_count": 8941
+  },
+  {
+    "file": "test_017_4643_0.pth",
+    "slide_id": "test_017",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06308942288160324,
+    "logits": [
+      1.4296190738677979,
+      -1.2684156894683838
+    ],
+    "patch_count": 4643
+  },
+  {
+    "file": "test_018_2494_0.pth",
+    "slide_id": "test_018",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.027667369693517685,
+    "logits": [
+      1.885556697845459,
+      -1.6738874912261963
+    ],
+    "patch_count": 2494
+  },
+  {
+    "file": "test_019_13030_0.pth",
+    "slide_id": "test_019",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.017159949988126755,
+    "logits": [
+      2.1362857818603516,
+      -1.911582589149475
+    ],
+    "patch_count": 13030
+  },
+  {
+    "file": "test_020_858_0.pth",
+    "slide_id": "test_020",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.037135954946279526,
+    "logits": [
+      1.722843050956726,
+      -1.532483458518982
+    ],
+    "patch_count": 858
+  },
+  {
+    "file": "test_021_14826_1.pth",
+    "slide_id": "test_021",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999790191650391,
+    "logits": [
+      -5.207921981811523,
+      5.561529636383057
+    ],
+    "patch_count": 14826
+  },
+  {
+    "file": "test_022_7775_0.pth",
+    "slide_id": "test_022",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02358570694923401,
+    "logits": [
+      1.9622983932495117,
+      -1.760947585105896
+    ],
+    "patch_count": 7775
+  },
+  {
+    "file": "test_023_6765_0.pth",
+    "slide_id": "test_023",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.11366333812475204,
+    "logits": [
+      1.0921711921691895,
+      -0.9616848230361938
+    ],
+    "patch_count": 6765
+  },
+  {
+    "file": "test_024_2622_0.pth",
+    "slide_id": "test_024",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06279659271240234,
+    "logits": [
+      1.4329752922058105,
+      -1.2700244188308716
+    ],
+    "patch_count": 2622
+  },
+  {
+    "file": "test_025_923_0.pth",
+    "slide_id": "test_025",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04801720753312111,
+    "logits": [
+      1.5862820148468018,
+      -1.4007054567337036
+    ],
+    "patch_count": 923
+  },
+  {
+    "file": "test_026_3534_1.pth",
+    "slide_id": "test_026",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9967767596244812,
+    "logits": [
+      -2.779154062271118,
+      2.95497727394104
+    ],
+    "patch_count": 3534
+  },
+  {
+    "file": "test_027_4704_1.pth",
+    "slide_id": "test_027",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999607801437378,
+    "logits": [
+      -4.35689115524292,
+      5.790715217590332
+    ],
+    "patch_count": 4704
+  },
+  {
+    "file": "test_028_7675_0.pth",
+    "slide_id": "test_028",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.12434573471546173,
+    "logits": [
+      1.0325331687927246,
+      -0.9193723797798157
+    ],
+    "patch_count": 7675
+  },
+  {
+    "file": "test_029_2573_1.pth",
+    "slide_id": "test_029",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999288320541382,
+    "logits": [
+      -3.9624927043914795,
+      5.587836742401123
+    ],
+    "patch_count": 2573
+  },
+  {
+    "file": "test_030_3842_1.pth",
+    "slide_id": "test_030",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.33461102843284607,
+    "logits": [
+      0.47400230169296265,
+      -0.21340075135231018
+    ],
+    "patch_count": 3842
+  },
+  {
+    "file": "test_031_11791_0.pth",
+    "slide_id": "test_031",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.09170110523700714,
+    "logits": [
+      1.210852026939392,
+      -1.0821870565414429
+    ],
+    "patch_count": 11791
+  },
+  {
+    "file": "test_032_9272_0.pth",
+    "slide_id": "test_032",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02999836578965187,
+    "logits": [
+      1.8408691883087158,
+      -1.635285496711731
+    ],
+    "patch_count": 9272
+  },
+  {
+    "file": "test_033_17228_1.pth",
+    "slide_id": "test_033",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.016525231301784515,
+    "logits": [
+      2.174041271209717,
+      -1.91216242313385
+    ],
+    "patch_count": 17228
+  },
+  {
+    "file": "test_034_3121_0.pth",
+    "slide_id": "test_034",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.1067352294921875,
+    "logits": [
+      1.123975157737732,
+      -1.0005567073822021
+    ],
+    "patch_count": 3121
+  },
+  {
+    "file": "test_035_5856_0.pth",
+    "slide_id": "test_035",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03969060629606247,
+    "logits": [
+      1.6893179416656494,
+      -1.4968229532241821
+    ],
+    "patch_count": 5856
+  },
+  {
+    "file": "test_036_4410_0.pth",
+    "slide_id": "test_036",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.064824178814888,
+    "logits": [
+      1.4149001836776733,
+      -1.2541558742523193
+    ],
+    "patch_count": 4410
+  },
+  {
+    "file": "test_037_5187_0.pth",
+    "slide_id": "test_037",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.017917411401867867,
+    "logits": [
+      2.114778995513916,
+      -1.8891233205795288
+    ],
+    "patch_count": 5187
+  },
+  {
+    "file": "test_038_4587_1.pth",
+    "slide_id": "test_038",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.33418405055999756,
+    "logits": [
+      0.5172315239906311,
+      -0.17208977043628693
+    ],
+    "patch_count": 4587
+  },
+  {
+    "file": "test_039_1031_0.pth",
+    "slide_id": "test_039",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.07016456872224808,
+    "logits": [
+      1.3722529411315918,
+      -1.2119112014770508
+    ],
+    "patch_count": 1031
+  },
+  {
+    "file": "test_040_3239_1.pth",
+    "slide_id": "test_040",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9866170883178711,
+    "logits": [
+      -1.971564769744873,
+      2.328733444213867
+    ],
+    "patch_count": 3239
+  },
+  {
+    "file": "test_041_6409_0.pth",
+    "slide_id": "test_041",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0528857484459877,
+    "logits": [
+      1.5104840993881226,
+      -1.3748016357421875
+    ],
+    "patch_count": 6409
+  },
+  {
+    "file": "test_042_22830_0.pth",
+    "slide_id": "test_042",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.044798001646995544,
+    "logits": [
+      1.637578010559082,
+      -1.4221813678741455
+    ],
+    "patch_count": 22830
+  },
+  {
+    "file": "test_043_2715_0.pth",
+    "slide_id": "test_043",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.058573029935359955,
+    "logits": [
+      1.4736496210098267,
+      -1.303472876548767
+    ],
+    "patch_count": 2715
+  },
+  {
+    "file": "test_044_3365_0.pth",
+    "slide_id": "test_044",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.05551498755812645,
+    "logits": [
+      1.5017516613006592,
+      -1.3322349786758423
+    ],
+    "patch_count": 3365
+  },
+  {
+    "file": "test_045_2993_0.pth",
+    "slide_id": "test_045",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04813951998949051,
+    "logits": [
+      1.5818947553634644,
+      -1.402420163154602
+    ],
+    "patch_count": 2993
+  },
+  {
+    "file": "test_046_1775_1.pth",
+    "slide_id": "test_046",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.8512079119682312,
+    "logits": [
+      -0.555577278137207,
+      1.188529133796692
+    ],
+    "patch_count": 1775
+  },
+  {
+    "file": "test_047_4862_0.pth",
+    "slide_id": "test_047",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.1032293289899826,
+    "logits": [
+      1.140701413154602,
+      -1.0211455821990967
+    ],
+    "patch_count": 4862
+  },
+  {
+    "file": "test_048_12192_1.pth",
+    "slide_id": "test_048",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9350206851959229,
+    "logits": [
+      -0.8021265268325806,
+      1.8643736839294434
+    ],
+    "patch_count": 12192
+  },
+  {
+    "file": "test_050_7587_0.pth",
+    "slide_id": "test_050",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.12464922666549683,
+    "logits": [
+      1.0329734086990356,
+      -0.9161476492881775
+    ],
+    "patch_count": 7587
+  },
+  {
+    "file": "test_051_2920_1.pth",
+    "slide_id": "test_051",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.466140478849411,
+    "logits": [
+      0.28219839930534363,
+      0.14655263721942902
+    ],
+    "patch_count": 2920
+  },
+  {
+    "file": "test_052_4037_1.pth",
+    "slide_id": "test_052",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.04899872466921806,
+    "logits": [
+      1.5685967206954956,
+      -1.3971244096755981
+    ],
+    "patch_count": 4037
+  },
+  {
+    "file": "test_053_14270_0.pth",
+    "slide_id": "test_053",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06502857804298401,
+    "logits": [
+      1.4091328382492065,
+      -1.2565563917160034
+    ],
+    "patch_count": 14270
+  },
+  {
+    "file": "test_054_5041_0.pth",
+    "slide_id": "test_054",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.036422014236450195,
+    "logits": [
+      1.732047438621521,
+      -1.543432593345642
+    ],
+    "patch_count": 5041
+  },
+  {
+    "file": "test_055_2569_0.pth",
+    "slide_id": "test_055",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04855813458561897,
+    "logits": [
+      1.5823471546173096,
+      -1.3928698301315308
+    ],
+    "patch_count": 2569
+  },
+  {
+    "file": "test_056_8190_0.pth",
+    "slide_id": "test_056",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03227859362959862,
+    "logits": [
+      1.8039209842681885,
+      -1.596618890762329
+    ],
+    "patch_count": 8190
+  },
+  {
+    "file": "test_057_2256_0.pth",
+    "slide_id": "test_057",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03482803329825401,
+    "logits": [
+      1.7543816566467285,
+      -1.5675020217895508
+    ],
+    "patch_count": 2256
+  },
+  {
+    "file": "test_058_9796_0.pth",
+    "slide_id": "test_058",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.05396319180727005,
+    "logits": [
+      1.5205302238464355,
+      -1.3434492349624634
+    ],
+    "patch_count": 9796
+  },
+  {
+    "file": "test_059_6111_0.pth",
+    "slide_id": "test_059",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03171638399362564,
+    "logits": [
+      1.8139816522598267,
+      -1.6047099828720093
+    ],
+    "patch_count": 6111
+  },
+  {
+    "file": "test_060_2049_0.pth",
+    "slide_id": "test_060",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.016592852771282196,
+    "logits": [
+      2.1553285121917725,
+      -1.9267228841781616
+    ],
+    "patch_count": 2049
+  },
+  {
+    "file": "test_061_6911_1.pth",
+    "slide_id": "test_061",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.999907374382019,
+    "logits": [
+      -4.0372819900512695,
+      5.249993324279785
+    ],
+    "patch_count": 6911
+  },
+  {
+    "file": "test_062_1779_0.pth",
+    "slide_id": "test_062",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.002880924614146352,
+    "logits": [
+      3.084334373474121,
+      -2.7624247074127197
+    ],
+    "patch_count": 1779
+  },
+  {
+    "file": "test_063_6361_0.pth",
+    "slide_id": "test_063",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.025256166234612465,
+    "logits": [
+      1.9276188611984253,
+      -1.7254855632781982
+    ],
+    "patch_count": 6361
+  },
+  {
+    "file": "test_064_1172_1.pth",
+    "slide_id": "test_064",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9989355206489563,
+    "logits": [
+      -2.92708683013916,
+      3.917154312133789
+    ],
+    "patch_count": 1172
+  },
+  {
+    "file": "test_065_844_1.pth",
+    "slide_id": "test_065",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9913028478622437,
+    "logits": [
+      -1.9567489624023438,
+      2.7792794704437256
+    ],
+    "patch_count": 844
+  },
+  {
+    "file": "test_066_7667_1.pth",
+    "slide_id": "test_066",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.005865504965186119,
+    "logits": [
+      2.700866460800171,
+      -2.431917428970337
+    ],
+    "patch_count": 7667
+  },
+  {
+    "file": "test_067_8776_0.pth",
+    "slide_id": "test_067",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.011119354516267776,
+    "logits": [
+      2.376929759979248,
+      -2.1109566688537598
+    ],
+    "patch_count": 8776
+  },
+  {
+    "file": "test_068_6871_1.pth",
+    "slide_id": "test_068",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9322050213813782,
+    "logits": [
+      -1.0521819591522217,
+      1.5688823461532593
+    ],
+    "patch_count": 6871
+  },
+  {
+    "file": "test_069_20146_1.pth",
+    "slide_id": "test_069",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.40645673871040344,
+    "logits": [
+      0.5444040298461914,
+      0.16577155888080597
+    ],
+    "patch_count": 20146
+  },
+  {
+    "file": "test_070_3066_0.pth",
+    "slide_id": "test_070",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04612313210964203,
+    "logits": [
+      1.6048332452774048,
+      -1.424386739730835
+    ],
+    "patch_count": 3066
+  },
+  {
+    "file": "test_071_3682_1.pth",
+    "slide_id": "test_071",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9994434714317322,
+    "logits": [
+      -3.549862861633301,
+      3.9434072971343994
+    ],
+    "patch_count": 3682
+  },
+  {
+    "file": "test_072_898_0.pth",
+    "slide_id": "test_072",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06350798904895782,
+    "logits": [
+      1.4297419786453247,
+      -1.2612333297729492
+    ],
+    "patch_count": 898
+  },
+  {
+    "file": "test_073_6934_1.pth",
+    "slide_id": "test_073",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999947547912598,
+    "logits": [
+      -5.909214973449707,
+      6.245437145233154
+    ],
+    "patch_count": 6934
+  },
+  {
+    "file": "test_074_6468_1.pth",
+    "slide_id": "test_074",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.16954530775547028,
+    "logits": [
+      1.0234347581863403,
+      -0.5654183030128479
+    ],
+    "patch_count": 6468
+  },
+  {
+    "file": "test_075_6485_1.pth",
+    "slide_id": "test_075",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9954872727394104,
+    "logits": [
+      -2.422212600708008,
+      2.9741134643554688
+    ],
+    "patch_count": 6485
+  },
+  {
+    "file": "test_076_7455_0.pth",
+    "slide_id": "test_076",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.09115975350141525,
+    "logits": [
+      1.2186474800109863,
+      -1.080908179283142
+    ],
+    "patch_count": 7455
+  },
+  {
+    "file": "test_077_9703_0.pth",
+    "slide_id": "test_077",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.005110241938382387,
+    "logits": [
+      2.7793493270874023,
+      -2.4920358657836914
+    ],
+    "patch_count": 9703
+  },
+  {
+    "file": "test_078_4095_0.pth",
+    "slide_id": "test_078",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.07205099612474442,
+    "logits": [
+      1.3481245040893555,
+      -1.2074781656265259
+    ],
+    "patch_count": 4095
+  },
+  {
+    "file": "test_079_3786_1.pth",
+    "slide_id": "test_079",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.10555034875869751,
+    "logits": [
+      1.1292083263397217,
+      -1.0078123807907104
+    ],
+    "patch_count": 3786
+  },
+  {
+    "file": "test_080_5571_0.pth",
+    "slide_id": "test_080",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.11264690011739731,
+    "logits": [
+      1.0881223678588867,
+      -0.9758625626564026
+    ],
+    "patch_count": 5571
+  },
+  {
+    "file": "test_081_4822_0.pth",
+    "slide_id": "test_081",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.07261748611927032,
+    "logits": [
+      1.3517524003982544,
+      -1.1954079866409302
+    ],
+    "patch_count": 4822
+  },
+  {
+    "file": "test_082_7414_1.pth",
+    "slide_id": "test_082",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9955286383628845,
+    "logits": [
+      -2.1350622177124023,
+      3.2705295085906982
+    ],
+    "patch_count": 7414
+  },
+  {
+    "file": "test_083_1843_0.pth",
+    "slide_id": "test_083",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.05974940210580826,
+    "logits": [
+      1.4574631452560425,
+      -1.298524022102356
+    ],
+    "patch_count": 1843
+  },
+  {
+    "file": "test_084_2244_1.pth",
+    "slide_id": "test_084",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.011280052363872528,
+    "logits": [
+      2.330559015274048,
+      -2.1428165435791016
+    ],
+    "patch_count": 2244
+  },
+  {
+    "file": "test_085_2507_0.pth",
+    "slide_id": "test_085",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.07635918259620667,
+    "logits": [
+      1.322509765625,
+      -1.170365333557129
+    ],
+    "patch_count": 2507
+  },
+  {
+    "file": "test_086_5691_0.pth",
+    "slide_id": "test_086",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03137727081775665,
+    "logits": [
+      1.8118144273757935,
+      -1.6179771423339844
+    ],
+    "patch_count": 5691
+  },
+  {
+    "file": "test_087_3987_0.pth",
+    "slide_id": "test_087",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04797212406992912,
+    "logits": [
+      1.5825341939926147,
+      -1.405440092086792
+    ],
+    "patch_count": 3987
+  },
+  {
+    "file": "test_088_2840_0.pth",
+    "slide_id": "test_088",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.08227361738681793,
+    "logits": [
+      1.2789090871810913,
+      -1.1329396963119507
+    ],
+    "patch_count": 2840
+  },
+  {
+    "file": "test_089_5073_0.pth",
+    "slide_id": "test_089",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.10326319932937622,
+    "logits": [
+      1.144999384880066,
+      -1.016481876373291
+    ],
+    "patch_count": 5073
+  },
+  {
+    "file": "test_090_12456_1.pth",
+    "slide_id": "test_090",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9999961853027344,
+    "logits": [
+      -5.916550159454346,
+      6.563549518585205
+    ],
+    "patch_count": 12456
+  },
+  {
+    "file": "test_091_1899_0.pth",
+    "slide_id": "test_091",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.057665564119815826,
+    "logits": [
+      1.4823803901672363,
+      -1.3113195896148682
+    ],
+    "patch_count": 1899
+  },
+  {
+    "file": "test_092_7633_1.pth",
+    "slide_id": "test_092",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9923145174980164,
+    "logits": [
+      -1.9763522148132324,
+      2.8843514919281006
+    ],
+    "patch_count": 7633
+  },
+  {
+    "file": "test_093_3792_0.pth",
+    "slide_id": "test_093",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.05726972967386246,
+    "logits": [
+      1.484277367591858,
+      -1.3167306184768677
+    ],
+    "patch_count": 3792
+  },
+  {
+    "file": "test_094_5282_1.pth",
+    "slide_id": "test_094",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9458851218223572,
+    "logits": [
+      -1.131482481956482,
+      1.7295305728912354
+    ],
+    "patch_count": 5282
+  },
+  {
+    "file": "test_095_5094_0.pth",
+    "slide_id": "test_095",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0179140567779541,
+    "logits": [
+      2.1254634857177734,
+      -1.8786295652389526
+    ],
+    "patch_count": 5094
+  },
+  {
+    "file": "test_096_1453_0.pth",
+    "slide_id": "test_096",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0919329822063446,
+    "logits": [
+      1.2135310173034668,
+      -1.0767273902893066
+    ],
+    "patch_count": 1453
+  },
+  {
+    "file": "test_097_8036_1.pth",
+    "slide_id": "test_097",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.038233399391174316,
+    "logits": [
+      1.7007685899734497,
+      -1.5242938995361328
+    ],
+    "patch_count": 8036
+  },
+  {
+    "file": "test_098_6111_0.pth",
+    "slide_id": "test_098",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.08828365057706833,
+    "logits": [
+      1.2346558570861816,
+      -1.1001182794570923
+    ],
+    "patch_count": 6111
+  },
+  {
+    "file": "test_099_5906_1.pth",
+    "slide_id": "test_099",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.044691432267427444,
+    "logits": [
+      1.615759253501892,
+      -1.446493148803711
+    ],
+    "patch_count": 5906
+  },
+  {
+    "file": "test_100_8348_0.pth",
+    "slide_id": "test_100",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03103647381067276,
+    "logits": [
+      1.822488784790039,
+      -1.6185749769210815
+    ],
+    "patch_count": 8348
+  },
+  {
+    "file": "test_101_7434_0.pth",
+    "slide_id": "test_101",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.02397639863193035,
+    "logits": [
+      1.946685552597046,
+      -1.7597312927246094
+    ],
+    "patch_count": 7434
+  },
+  {
+    "file": "test_102_1705_1.pth",
+    "slide_id": "test_102",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.005867150612175465,
+    "logits": [
+      2.686720132827759,
+      -2.445781707763672
+    ],
+    "patch_count": 1705
+  },
+  {
+    "file": "test_103_4035_0.pth",
+    "slide_id": "test_103",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.030192559584975243,
+    "logits": [
+      1.845878005027771,
+      -1.6236238479614258
+    ],
+    "patch_count": 4035
+  },
+  {
+    "file": "test_104_7882_1.pth",
+    "slide_id": "test_104",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.5704975724220276,
+    "logits": [
+      0.19797655940055847,
+      0.4818580448627472
+    ],
+    "patch_count": 7882
+  },
+  {
+    "file": "test_105_23590_1.pth",
+    "slide_id": "test_105",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9766107797622681,
+    "logits": [
+      -1.7003778219223022,
+      2.0314366817474365
+    ],
+    "patch_count": 23590
+  },
+  {
+    "file": "test_106_2734_0.pth",
+    "slide_id": "test_106",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.01865742914378643,
+    "logits": [
+      2.094280958175659,
+      -1.868396282196045
+    ],
+    "patch_count": 2734
+  },
+  {
+    "file": "test_107_1373_0.pth",
+    "slide_id": "test_107",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.046822838485240936,
+    "logits": [
+      1.5927460193634033,
+      -1.420683741569519
+    ],
+    "patch_count": 1373
+  },
+  {
+    "file": "test_108_1395_1.pth",
+    "slide_id": "test_108",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.6112837791442871,
+    "logits": [
+      0.04154690355062485,
+      0.4942586421966553
+    ],
+    "patch_count": 1395
+  },
+  {
+    "file": "test_109_5505_0.pth",
+    "slide_id": "test_109",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.12053129076957703,
+    "logits": [
+      1.0497355461120605,
+      -0.9376729726791382
+    ],
+    "patch_count": 5505
+  },
+  {
+    "file": "test_110_8711_1.pth",
+    "slide_id": "test_110",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.12192658334970474,
+    "logits": [
+      1.0791010856628418,
+      -0.8952100276947021
+    ],
+    "patch_count": 8711
+  },
+  {
+    "file": "test_111_1718_0.pth",
+    "slide_id": "test_111",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.020066723227500916,
+    "logits": [
+      2.0595455169677734,
+      -1.8288758993148804
+    ],
+    "patch_count": 1718
+  },
+  {
+    "file": "test_112_3620_0.pth",
+    "slide_id": "test_112",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06743834912776947,
+    "logits": [
+      1.3932077884674072,
+      -1.2335134744644165
+    ],
+    "patch_count": 3620
+  },
+  {
+    "file": "test_113_11141_1.pth",
+    "slide_id": "test_113",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9611600637435913,
+    "logits": [
+      -1.4396247863769531,
+      1.7690671682357788
+    ],
+    "patch_count": 11141
+  },
+  {
+    "file": "test_114_13007_1.pth",
+    "slide_id": "test_114",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9689987897872925,
+    "logits": [
+      -1.5546904802322388,
+      1.8875471353530884
+    ],
+    "patch_count": 13007
+  },
+  {
+    "file": "test_115_1056_0.pth",
+    "slide_id": "test_115",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.037669260054826736,
+    "logits": [
+      1.7158359289169312,
+      -1.5246779918670654
+    ],
+    "patch_count": 1056
+  },
+  {
+    "file": "test_116_3638_1.pth",
+    "slide_id": "test_116",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.068730928003788,
+    "logits": [
+      1.379309058189392,
+      -1.2270398139953613
+    ],
+    "patch_count": 3638
+  },
+  {
+    "file": "test_117_4022_1.pth",
+    "slide_id": "test_117",
+    "label": 1,
+    "prediction": 0,
+    "tumor_probability": 0.11781894415616989,
+    "logits": [
+      1.1043776273727417,
+      -0.9088706374168396
+    ],
+    "patch_count": 4022
+  },
+  {
+    "file": "test_118_3241_0.pth",
+    "slide_id": "test_118",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06709053367376328,
+    "logits": [
+      1.3942698240280151,
+      -1.2379955053329468
+    ],
+    "patch_count": 3241
+  },
+  {
+    "file": "test_119_1617_0.pth",
+    "slide_id": "test_119",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0984787866473198,
+    "logits": [
+      1.179625391960144,
+      -1.0346170663833618
+    ],
+    "patch_count": 1617
+  },
+  {
+    "file": "test_120_9394_0.pth",
+    "slide_id": "test_120",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.056008100509643555,
+    "logits": [
+      1.4868820905685425,
+      -1.337739109992981
+    ],
+    "patch_count": 9394
+  },
+  {
+    "file": "test_121_3806_1.pth",
+    "slide_id": "test_121",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.9998718500137329,
+    "logits": [
+      -4.376854419708252,
+      4.585610389709473
+    ],
+    "patch_count": 3806
+  },
+  {
+    "file": "test_122_6079_1.pth",
+    "slide_id": "test_122",
+    "label": 1,
+    "prediction": 1,
+    "tumor_probability": 0.7792077660560608,
+    "logits": [
+      -0.3056710660457611,
+      0.9553845524787903
+    ],
+    "patch_count": 6079
+  },
+  {
+    "file": "test_123_2075_0.pth",
+    "slide_id": "test_123",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.0178174190223217,
+    "logits": [
+      2.1172618865966797,
+      -1.8923388719558716
+    ],
+    "patch_count": 2075
+  },
+  {
+    "file": "test_124_1329_0.pth",
+    "slide_id": "test_124",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.03544321283698082,
+    "logits": [
+      1.7442140579223633,
+      -1.5595228672027588
+    ],
+    "patch_count": 1329
+  },
+  {
+    "file": "test_125_7608_0.pth",
+    "slide_id": "test_125",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.04884913191199303,
+    "logits": [
+      1.5677330493927002,
+      -1.4012031555175781
+    ],
+    "patch_count": 7608
+  },
+  {
+    "file": "test_126_6723_0.pth",
+    "slide_id": "test_126",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.10013356804847717,
+    "logits": [
+      1.1635175943374634,
+      -1.0322238206863403
+    ],
+    "patch_count": 6723
+  },
+  {
+    "file": "test_127_13422_0.pth",
+    "slide_id": "test_127",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.009165450930595398,
+    "logits": [
+      2.473705530166626,
+      -2.2094006538391113
+    ],
+    "patch_count": 13422
+  },
+  {
+    "file": "test_128_1808_0.pth",
+    "slide_id": "test_128",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.07557669281959534,
+    "logits": [
+      1.3193364143371582,
+      -1.1846858263015747
+    ],
+    "patch_count": 1808
+  },
+  {
+    "file": "test_129_2125_0.pth",
+    "slide_id": "test_129",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.015002933330833912,
+    "logits": [
+      2.210672378540039,
+      -1.9737204313278198
+    ],
+    "patch_count": 2125
+  },
+  {
+    "file": "test_130_3689_0.pth",
+    "slide_id": "test_130",
+    "label": 0,
+    "prediction": 0,
+    "tumor_probability": 0.06027265638113022,
+    "logits": [
+      1.4559608697891235,
+      -1.2907503843307495
+    ],
+    "patch_count": 3689
+  }
+]

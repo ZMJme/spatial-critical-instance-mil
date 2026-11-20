@@ -1,0 +1,27 @@
+{
+  "model": "A1_SelfLoop_Joint_patience10",
+  "run_type": "新测试",
+  "n": 129,
+  "negative": 80,
+  "positive": 49,
+  "precision": 0.9743589743589743,
+  "accuracy": 0.9069767441860465,
+  "recall": 0.7755102040816326,
+  "f1": 0.8636363636363636,
+  "TN": 79,
+  "FP": 1,
+  "FN": 11,
+  "TP": 38,
+  "confusion_matrix_labels_0_1": [
+    [
+      79,
+      1
+    ],
+    [
+      11,
+      38
+    ]
+  ],
+  "weight_path": "/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/A1_SelfLoop_Joint_patience10/model.pth",
+  "test_data_path": "/root/autodl-tmp/database/CAMELYON16/pkl_data/testing/20xbags"
+}

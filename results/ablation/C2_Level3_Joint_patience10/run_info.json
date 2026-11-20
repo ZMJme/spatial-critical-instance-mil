@@ -1,0 +1,10 @@
+{
+  "checkpoint_sha256": "0d209b11029c2e0655e41e9d32b625f4c0016760d8ca21a7a891f22b77b8c132",
+  "reader": "get_c2_data",
+  "scale": "5xbags",
+  "torch_version": "2.8.0+cu128",
+  "device": "cuda:0",
+  "prediction_rule": "bag logits argmax",
+  "label_source": "cache internal label",
+  "training": false
+}

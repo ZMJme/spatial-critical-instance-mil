@@ -1,0 +1,164 @@
+2026-11-20 14:03:10,571 - INFO - 新测试，不训练；权重=/root/autodl-tmp/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/B4_GCN2_Joint_patience10/model.pth；读取函数=get_a2_data
+2026-11-20 14:03:10,572 - INFO - 原配置={"experiment": "B4_GCN2_Joint_patience10", "dataset": "CAMELYON16", "class_num": 2, "feature_dim": 384, "reference_run": "/data/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/Ours/Ours_patience10", "split_source": "/data/code/WSI/WSI_pretrain/model/MIL/compare/Camelyon/patience10_split_on_CAMELYON16.json", "data_path": "/data/database/CAMELYON16/pkl_data/training/20xbags", "graph_encoder": "GCNConv(384,256)-ReLU-Dropout(0.1)-GCNConv(256,256)", "graph_structure": "B4GCNEncoder(\n  (conv1): GCNConv(384, 256)\n  (activation): ReLU(inplace=True)\n  (dropout): Dropout(p=0.1, inplace=False)\n  (conv2): GCNConv(256, 256)\n)", "graph_edges": "eight-neighbor; internal GCN self-loops", "gcn_normalize": true, "gcn_cached": false, "aggregation_head": "original BClassifier(256,2)", "training_loss": "0.5 bag CE + 0.5 max-instance CE", "optimizer": "Adam", "learning_rate": 0.0003, "max_epochs": 100, "patience": 10, "early_stopping_logic": "reset to 10 on improvement, then decrement every epoch", "consecutive_non_improvements_to_stop": 9, "checkpoint_selection": "minimum validation bag CE", "training_seed": null, "train_order": "fixed saved split order; no reshuffling"}
+2026-11-20 14:03:10,599 - INFO - 实际模型结构：
+B4GCN2Model(
+  (gnn): B4GCNEncoder(
+    (conv1): GCNConv(384, 256)
+    (activation): ReLU(inplace=True)
+    (dropout): Dropout(p=0.1, inplace=False)
+    (conv2): GCNConv(256, 256)
+  )
+  (mil): MILNet(
+    (i_classifier): FCLayer(
+      (fc): Sequential(
+        (0): Linear(in_features=256, out_features=2, bias=True)
+      )
+    )
+    (b_classifier): BClassifier(
+      (lin): Sequential(
+        (0): Linear(in_features=256, out_features=256, bias=True)
+        (1): ReLU()
+      )
+      (q): Sequential(
+        (0): Linear(in_features=256, out_features=128, bias=True)
+        (1): Tanh()
+      )
+      (v): Sequential(
+        (0): Dropout(p=0.0, inplace=False)
+        (1): Linear(in_features=256, out_features=256, bias=True)
+      )
+      (fcc): Conv1d(2, 2, kernel_size=(256,), stride=(1,))
+    )
+  )
+)
+2026-11-20 14:03:10,629 - INFO - test_001 | label=1 | prediction=1 | probability=0.99986196
+2026-11-20 14:03:10,821 - INFO - test_002 | label=1 | prediction=1 | probability=0.99919623
+2026-11-20 14:03:10,842 - INFO - test_003 | label=0 | prediction=0 | probability=0.11841688
+2026-11-20 14:03:10,881 - INFO - test_004 | label=1 | prediction=0 | probability=0.03621843
+2026-11-20 14:03:10,897 - INFO - test_005 | label=0 | prediction=0 | probability=0.08159047
+2026-11-20 14:03:11,096 - INFO - test_006 | label=0 | prediction=0 | probability=0.47383559
+2026-11-20 14:03:11,117 - INFO - test_007 | label=0 | prediction=0 | probability=0.08273782
+2026-11-20 14:03:11,156 - INFO - test_008 | label=1 | prediction=1 | probability=0.75673842
+2026-11-20 14:03:11,343 - INFO - test_009 | label=0 | prediction=0 | probability=0.04007744
+2026-11-20 14:03:11,415 - INFO - test_010 | label=1 | prediction=0 | probability=0.48174939
+2026-11-20 14:03:11,595 - INFO - test_011 | label=1 | prediction=1 | probability=0.86319548
+2026-11-20 14:03:11,631 - INFO - test_012 | label=0 | prediction=0 | probability=0.05179926
+2026-11-20 14:03:11,646 - INFO - test_013 | label=1 | prediction=0 | probability=0.12677929
+2026-11-20 14:03:11,860 - INFO - test_014 | label=0 | prediction=0 | probability=0.19147310
+2026-11-20 14:03:11,880 - INFO - test_015 | label=0 | prediction=0 | probability=0.12056407
+2026-11-20 14:03:11,934 - INFO - test_016 | label=1 | prediction=1 | probability=0.99968612
+2026-11-20 14:03:12,128 - INFO - test_017 | label=0 | prediction=0 | probability=0.07834703
+2026-11-20 14:03:12,146 - INFO - test_018 | label=0 | prediction=0 | probability=0.03183769
+2026-11-20 14:03:12,387 - INFO - test_019 | label=0 | prediction=0 | probability=0.05211334
+2026-11-20 14:03:12,395 - INFO - test_020 | label=0 | prediction=0 | probability=0.08152580
+2026-11-20 14:03:12,486 - INFO - test_021 | label=1 | prediction=1 | probability=0.99956256
+2026-11-20 14:03:12,684 - INFO - test_022 | label=0 | prediction=0 | probability=0.18009391
+2026-11-20 14:03:12,890 - INFO - test_023 | label=0 | prediction=0 | probability=0.25636923
+2026-11-20 14:03:12,908 - INFO - test_024 | label=0 | prediction=0 | probability=0.09052453
+2026-11-20 14:03:12,916 - INFO - test_025 | label=0 | prediction=0 | probability=0.08224112
+2026-11-20 14:03:12,938 - INFO - test_026 | label=1 | prediction=1 | probability=0.93815690
+2026-11-20 14:03:12,967 - INFO - test_027 | label=1 | prediction=1 | probability=0.99654043
+2026-11-20 14:03:13,176 - INFO - test_028 | label=0 | prediction=0 | probability=0.09788479
+2026-11-20 14:03:13,194 - INFO - test_029 | label=1 | prediction=0 | probability=0.08668204
+2026-11-20 14:03:13,220 - INFO - test_030 | label=1 | prediction=0 | probability=0.15121581
+2026-11-20 14:03:13,469 - INFO - test_031 | label=0 | prediction=0 | probability=0.11273929
+2026-11-20 14:03:13,525 - INFO - test_032 | label=0 | prediction=0 | probability=0.15100431
+2026-11-20 14:03:13,960 - INFO - test_033 | label=1 | prediction=0 | probability=0.04192552
+2026-11-20 14:03:13,980 - INFO - test_034 | label=0 | prediction=1 | probability=0.60695195
+2026-11-20 14:03:14,017 - INFO - test_035 | label=0 | prediction=0 | probability=0.08075877
+2026-11-20 14:03:14,047 - INFO - test_036 | label=0 | prediction=0 | probability=0.25200760
+2026-11-20 14:03:14,236 - INFO - test_037 | label=0 | prediction=0 | probability=0.04670196
+2026-11-20 14:03:14,265 - INFO - test_038 | label=1 | prediction=1 | probability=0.90840524
+2026-11-20 14:03:14,273 - INFO - test_039 | label=0 | prediction=0 | probability=0.14086916
+2026-11-20 14:03:14,294 - INFO - test_040 | label=1 | prediction=1 | probability=0.96077609
+2026-11-20 14:03:14,333 - INFO - test_041 | label=0 | prediction=0 | probability=0.05526009
+2026-11-20 14:03:14,798 - INFO - test_042 | label=0 | prediction=0 | probability=0.08059699
+2026-11-20 14:03:14,817 - INFO - test_043 | label=0 | prediction=0 | probability=0.13442563
+2026-11-20 14:03:14,838 - INFO - test_044 | label=0 | prediction=0 | probability=0.02807085
+2026-11-20 14:03:14,859 - INFO - test_045 | label=0 | prediction=0 | probability=0.14457040
+2026-11-20 14:03:14,873 - INFO - test_046 | label=1 | prediction=1 | probability=0.98823732
+2026-11-20 14:03:15,063 - INFO - test_047 | label=0 | prediction=0 | probability=0.09808549
+2026-11-20 14:03:15,299 - INFO - test_048 | label=1 | prediction=0 | probability=0.13875444
+2026-11-20 14:03:15,346 - INFO - test_050 | label=0 | prediction=0 | probability=0.27143115
+2026-11-20 14:03:15,364 - INFO - test_051 | label=1 | prediction=1 | probability=0.98509848
+2026-11-20 14:03:15,390 - INFO - test_052 | label=1 | prediction=0 | probability=0.27561951
+2026-11-20 14:03:15,628 - INFO - test_053 | label=0 | prediction=1 | probability=0.77481520
+2026-11-20 14:03:15,815 - INFO - test_054 | label=0 | prediction=0 | probability=0.20199554
+2026-11-20 14:03:15,832 - INFO - test_055 | label=0 | prediction=1 | probability=0.57381219
+2026-11-20 14:03:16,041 - INFO - test_056 | label=0 | prediction=0 | probability=0.09511881
+2026-11-20 14:03:16,056 - INFO - test_057 | label=0 | prediction=0 | probability=0.06168787
+2026-11-20 14:03:16,115 - INFO - test_058 | label=0 | prediction=0 | probability=0.08687608
+2026-11-20 14:03:16,311 - INFO - test_059 | label=0 | prediction=0 | probability=0.08390215
+2026-11-20 14:03:16,328 - INFO - test_060 | label=0 | prediction=0 | probability=0.05755476
+2026-11-20 14:03:16,369 - INFO - test_061 | label=1 | prediction=1 | probability=0.99914110
+2026-11-20 14:03:16,381 - INFO - test_062 | label=0 | prediction=0 | probability=0.07562125
+2026-11-20 14:03:16,577 - INFO - test_063 | label=0 | prediction=0 | probability=0.02876781
+2026-11-20 14:03:16,587 - INFO - test_064 | label=1 | prediction=1 | probability=0.76647633
+2026-11-20 14:03:16,593 - INFO - test_065 | label=1 | prediction=1 | probability=0.98877674
+2026-11-20 14:03:16,639 - INFO - test_066 | label=1 | prediction=0 | probability=0.03031653
+2026-11-20 14:03:16,851 - INFO - test_067 | label=0 | prediction=0 | probability=0.07008186
+2026-11-20 14:03:16,892 - INFO - test_068 | label=1 | prediction=1 | probability=0.96542639
+2026-11-20 14:03:17,338 - INFO - test_069 | label=1 | prediction=1 | probability=0.62534583
+2026-11-20 14:03:17,358 - INFO - test_070 | label=0 | prediction=0 | probability=0.07107908
+2026-11-20 14:03:17,381 - INFO - test_071 | label=1 | prediction=1 | probability=0.99980968
+2026-11-20 14:03:17,388 - INFO - test_072 | label=0 | prediction=0 | probability=0.05355124
+2026-11-20 14:03:17,430 - INFO - test_073 | label=1 | prediction=1 | probability=0.99996877
+2026-11-20 14:03:17,468 - INFO - test_074 | label=1 | prediction=1 | probability=0.66033179
+2026-11-20 14:03:17,661 - INFO - test_075 | label=1 | prediction=1 | probability=0.98739004
+2026-11-20 14:03:17,865 - INFO - test_076 | label=0 | prediction=0 | probability=0.27830657
+2026-11-20 14:03:17,923 - INFO - test_077 | label=0 | prediction=0 | probability=0.02812363
+2026-11-20 14:03:17,948 - INFO - test_078 | label=0 | prediction=0 | probability=0.09159672
+2026-11-20 14:03:18,126 - INFO - test_079 | label=1 | prediction=1 | probability=0.87466240
+2026-11-20 14:03:18,159 - INFO - test_080 | label=0 | prediction=0 | probability=0.17484719
+2026-11-20 14:03:18,190 - INFO - test_081 | label=0 | prediction=1 | probability=0.54050153
+2026-11-20 14:03:18,386 - INFO - test_082 | label=1 | prediction=1 | probability=0.99569041
+2026-11-20 14:03:18,399 - INFO - test_083 | label=0 | prediction=0 | probability=0.14444919
+2026-11-20 14:03:18,414 - INFO - test_084 | label=1 | prediction=0 | probability=0.08433820
+2026-11-20 14:03:18,429 - INFO - test_085 | label=0 | prediction=0 | probability=0.39530668
+2026-11-20 14:03:18,464 - INFO - test_086 | label=0 | prediction=0 | probability=0.07496020
+2026-11-20 14:03:18,646 - INFO - test_087 | label=0 | prediction=0 | probability=0.07875913
+2026-11-20 14:03:18,665 - INFO - test_088 | label=0 | prediction=1 | probability=0.56111783
+2026-11-20 14:03:18,696 - INFO - test_089 | label=0 | prediction=0 | probability=0.13182662
+2026-11-20 14:03:18,925 - INFO - test_090 | label=1 | prediction=1 | probability=0.99974054
+2026-11-20 14:03:18,938 - INFO - test_091 | label=0 | prediction=0 | probability=0.16537304
+2026-11-20 14:03:19,145 - INFO - test_092 | label=1 | prediction=1 | probability=0.99293810
+2026-11-20 14:03:19,170 - INFO - test_093 | label=0 | prediction=0 | probability=0.26343274
+2026-11-20 14:03:19,202 - INFO - test_094 | label=1 | prediction=1 | probability=0.96926796
+2026-11-20 14:03:19,234 - INFO - test_095 | label=0 | prediction=0 | probability=0.21374783
+2026-11-20 14:03:19,246 - INFO - test_096 | label=0 | prediction=0 | probability=0.36207360
+2026-11-20 14:03:19,447 - INFO - test_097 | label=1 | prediction=0 | probability=0.10277355
+2026-11-20 14:03:19,484 - INFO - test_098 | label=0 | prediction=0 | probability=0.10704537
+2026-11-20 14:03:19,671 - INFO - test_099 | label=1 | prediction=0 | probability=0.13051333
+2026-11-20 14:03:19,719 - INFO - test_100 | label=0 | prediction=0 | probability=0.04121622
+2026-11-20 14:03:19,920 - INFO - test_101 | label=0 | prediction=0 | probability=0.06377201
+2026-11-20 14:03:19,931 - INFO - test_102 | label=1 | prediction=0 | probability=0.42971343
+2026-11-20 14:03:19,957 - INFO - test_103 | label=0 | prediction=0 | probability=0.08268872
+2026-11-20 14:03:20,161 - INFO - test_104 | label=1 | prediction=1 | probability=0.98378605
+2026-11-20 14:03:20,464 - INFO - test_105 | label=1 | prediction=1 | probability=0.99733102
+2026-11-20 14:03:20,638 - INFO - test_106 | label=0 | prediction=0 | probability=0.04533120
+2026-11-20 14:03:20,649 - INFO - test_107 | label=0 | prediction=0 | probability=0.09752833
+2026-11-20 14:03:20,658 - INFO - test_108 | label=1 | prediction=1 | probability=0.99377996
+2026-11-20 14:03:20,691 - INFO - test_109 | label=0 | prediction=0 | probability=0.20263185
+2026-11-20 14:03:20,900 - INFO - test_110 | label=1 | prediction=0 | probability=0.33309084
+2026-11-20 14:03:20,910 - INFO - test_111 | label=0 | prediction=0 | probability=0.05138101
+2026-11-20 14:03:20,933 - INFO - test_112 | label=0 | prediction=0 | probability=0.09244301
+2026-11-20 14:03:20,998 - INFO - test_113 | label=1 | prediction=1 | probability=0.99384660
+2026-11-20 14:03:21,228 - INFO - test_114 | label=1 | prediction=1 | probability=0.99959666
+2026-11-20 14:03:21,237 - INFO - test_115 | label=0 | prediction=0 | probability=0.03806658
+2026-11-20 14:03:21,412 - INFO - test_116 | label=1 | prediction=0 | probability=0.06036885
+2026-11-20 14:03:21,438 - INFO - test_117 | label=1 | prediction=0 | probability=0.10194782
+2026-11-20 14:03:21,459 - INFO - test_118 | label=0 | prediction=0 | probability=0.15412156
+2026-11-20 14:03:21,470 - INFO - test_119 | label=0 | prediction=0 | probability=0.19373168
+2026-11-20 14:03:21,681 - INFO - test_120 | label=0 | prediction=0 | probability=0.09444726
+2026-11-20 14:03:21,706 - INFO - test_121 | label=1 | prediction=1 | probability=0.99793184
+2026-11-20 14:03:21,903 - INFO - test_122 | label=1 | prediction=1 | probability=0.97783238
+2026-11-20 14:03:21,918 - INFO - test_123 | label=0 | prediction=0 | probability=0.07169560
+2026-11-20 14:03:21,928 - INFO - test_124 | label=0 | prediction=0 | probability=0.08491050
+2026-11-20 14:03:21,973 - INFO - test_125 | label=0 | prediction=0 | probability=0.07471778
+2026-11-20 14:03:22,172 - INFO - test_126 | label=0 | prediction=0 | probability=0.11050034
+2026-11-20 14:03:22,249 - INFO - test_127 | label=0 | prediction=0 | probability=0.02778655
+2026-11-20 14:03:22,414 - INFO - test_128 | label=0 | prediction=0 | probability=0.08093473
+2026-11-20 14:03:22,428 - INFO - test_129 | label=0 | prediction=0 | probability=0.01994880
+2026-11-20 14:03:22,451 - INFO - test_130 | label=0 | prediction=0 | probability=0.10901914
+2026-11-20 14:03:22,468 - INFO - TEST B4_GCN2_Joint_patience10 新测试 | Pre: 0.868421 | Acc: 0.837209 | Rec: 0.673469 | F1: 0.758621
+2026-11-20 14:03:22,468 - INFO - 混淆矩阵[0,1]=[[75, 5], [16, 33]]

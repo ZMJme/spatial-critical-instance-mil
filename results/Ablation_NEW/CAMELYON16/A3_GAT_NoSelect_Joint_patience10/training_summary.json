@@ -1,6 +1,0 @@
-{
-  "experiment": "A3_GAT_NoSelect_Joint_patience10",
-  "best_epoch": 9,
-  "best_validation_ce": 0.10254659893918736,
-  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/A3_GAT_NoSelect_Joint_patience10/model.pth"
-}

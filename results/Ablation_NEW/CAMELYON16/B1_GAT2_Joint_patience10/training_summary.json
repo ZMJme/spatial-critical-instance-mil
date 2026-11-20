@@ -1,6 +1,0 @@
-{
-  "experiment": "B1_GAT2_Joint_patience10",
-  "best_epoch": 4,
-  "best_validation_ce": 0.14101393950522517,
-  "weight_path": "/data/code/WSI/WSI_pretrain/model/MIL/Ablation_NEW/CAMELYON16/B1_GAT2_Joint_patience10/model.pth"
-}
